@@ -1,7 +1,7 @@
 [
 	{
 		"title" : "Soirée Humoristique 2016",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"thumb" : "./assets/images/projects/min_r2d2.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
@@ -18,7 +18,7 @@
 	},
 	{
 		"title" : "Vector Wolf",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"thumb" : "./assets/images/projects/min_alphastory.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
@@ -52,7 +52,7 @@
 	},
 	{
 		"title" : "Projet test",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"thumb" : "./assets/images/projects/min_maxicamp.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
@@ -69,7 +69,7 @@
 	},
 	{
 		"title" : "Projet test",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"thumb" : "./assets/images/projects/min_promyana.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
@@ -86,7 +86,7 @@
 	},
 	{
 		"title" : "Projet test",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"thumb" : "./assets/images/projects/min_gym.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
