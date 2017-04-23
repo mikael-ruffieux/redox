@@ -4,7 +4,7 @@
 		"thumb" : "./assets/images/projects/min_r2d2.png",
 		"items" : [
 			{
-				"content" : "./assetss/images/creations/loup_vector.png",
+				"content" : "./assets/images/creations/loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
@@ -20,7 +20,7 @@
 		"thumb" : "./assets/images/projects/min_alphastory.png",
 		"items" : [
 			{
-				"content" : "./assetss/images/creations/loup_vector.png",
+				"content" : "./assets/images/creations/loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
@@ -36,7 +36,7 @@
 		"thumb" : "./assets/images/projects/min_SH.png",
 		"items" : [
 			{
-				"content" : "./assetss/images/creations/loup_vector.png",
+				"content" : "./assets/images/creations/loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
@@ -52,7 +52,7 @@
 		"thumb" : "./assets/images/projects/min_maxicamp.png",
 		"items" : [
 			{
-				"content" : "./assetss/images/creations/loup_vector.png",
+				"content" : "./assets/images/creations/loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
@@ -68,7 +68,7 @@
 		"thumb" : "./assets/images/projects/min_promyana.png",
 		"items" : [
 			{
-				"content" : "./assetss/images/creations/loup_vector.png",
+				"content" : "./assets/images/creations/loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
@@ -84,7 +84,7 @@
 		"thumb" : "./assets/images/projects/min_gym.png",
 		"items" : [
 			{
-				"content" : "./assetss/images/creations/loup_vector.png",
+				"content" : "./assets/images/creations/loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
