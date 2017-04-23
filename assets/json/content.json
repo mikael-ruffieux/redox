@@ -1,6 +1,6 @@
 [
 	{
-		"title" : "Soirée Humoristique 2016",
+		"title" : "Créations",
 		"thumb" : "./assets/images/projects/min_r2d2.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
@@ -17,7 +17,7 @@
 		]
 	},
 	{
-		"title" : "Vector Wolf",
+		"title" : "Alpha Bulgaria",
 		"thumb" : "./assets/images/projects/min_alphastory.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
@@ -34,7 +34,7 @@
 		]
 	},
 	{
-		"title" : "Projet test",
+		"title" : "Soirée Humoristique 2016",
 		"thumb" : "./assets/images/projects/min_SH.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
@@ -51,7 +51,7 @@
 		]
 	},
 	{
-		"title" : "Projet test",
+		"title" : "Maxi Camp 2015",
 		"thumb" : "./assets/images/projects/min_maxicamp.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
@@ -68,7 +68,7 @@
 		]
 	},
 	{
-		"title" : "Projet test",
+		"title" : "Sites web",
 		"thumb" : "./assets/images/projects/min_promyana.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
@@ -85,7 +85,7 @@
 		]
 	},
 	{
-		"title" : "Projet test",
+		"title" : "Soirée de gym 2016",
 		"thumb" : "./assets/images/projects/min_gym.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
