@@ -69,7 +69,7 @@ body.lightbox-fullscreen {
 	height: 90vh;
 }
 
-.img-container img {
+.img-container > * {
 	max-width: 100%;
 	max-height: 100%;
 }
