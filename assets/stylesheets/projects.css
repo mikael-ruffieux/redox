@@ -1,0 +1,21 @@
+.section-content {
+	width: 95%;
+	margin: auto;
+	overflow: auto;
+}
+
+.project-container {
+	float: left;
+	width: 30%;
+	background: yellow;
+	margin: 1.5%;
+}
+
+.project-thumb {
+	height: 200px;
+	background: lightgrey;
+}
+
+.project-caption {
+	text-align: center;
+}
