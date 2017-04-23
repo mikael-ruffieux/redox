@@ -8,6 +8,12 @@
 }
 
 #contact .information {
+  line-height: 30px;
+  font-size: 22px;
   bottom: 30px;
   position: absolute;
+}
+
+#contact .information img {
+  width: 18px;
 }
