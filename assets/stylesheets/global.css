@@ -1,13 +1,24 @@
 body {
+	font-family: 'Raleway', Arial, sans-serif;
+	color: #f1f1f1;
+
 	padding: 0px;
 	margin: 0px;
 }
 
-.full-height {
+section.full-height {
 	height: 100vh;
+<<<<<<< HEAD
 	border: 1px solid black;
 }
 
 section {
 	width: 100%;
 }
+=======
+}
+
+section.grey {
+	background-color: #282828
+}
+>>>>>>> 448d6761eae28615224f4c4e5432d53f43140a2e
