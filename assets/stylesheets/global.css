@@ -6,19 +6,14 @@ body {
 	margin: 0px;
 }
 
-section.full-height {
-	height: 100vh;
-<<<<<<< HEAD
-	border: 1px solid black;
-}
-
 section {
 	width: 100%;
 }
-=======
+
+section.full-height {
+	height: 100vh;
 }
 
 section.grey {
 	background-color: #282828
 }
->>>>>>> 448d6761eae28615224f4c4e5432d53f43140a2e
