@@ -71,12 +71,12 @@ $(function() {
 				}
 
 				if (item.type == "vimeo") {
-					item.content = $('<iframe width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
+					item.content = $('<iframe width="1000" height="563" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
 						.attr('src', item.content);
 				}
 
 				if (item.type == "youtube") {
-					item.content = $('<iframe width="560" height="315" frameborder="0" allowfullscreen></iframe>')
+					item.content = $('<iframe width="1000" height="563" frameborder="0" allowfullscreen></iframe>')
 						.attr('src', item.content);
 				}
 			}
