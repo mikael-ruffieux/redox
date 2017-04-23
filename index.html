@@ -5,27 +5,28 @@
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous"></script>
-  <link rel="stylesheet" type="text/css" href="https://necolas.github.io/normalize.css/6.0.0/normalize.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.min.css">
   <link rel="stylesheet" type="text/css" href="./assets/stylesheets/application.css">
   <meta charset="utf-8">
 </head>
 <body>
 
-  <nav id="navbar">
-    <img src="">
-    <ul>
-      <li>À propos</li>
-      <li>Travaux</li>
-      <li>Contact</li>
-    </ul>
-  </nav>
-
   <section id="home" class="full-height">
     <div>Arrow goes here</div>
   </section>
 
-  <section id="about" class="full-height">
+  <section id="about" class="full-height grey">
     <div class="section-anchor"></div>
+
+    <nav id="navbar">
+      <img src="./assets/images/layout/logo_text.png">
+      <ul>
+        <li>À propos</li>
+        <li>Travaux</li>
+        <li>Contact</li>
+      </ul>
+    </nav>
+
     <h1>À propos</h1>
   </section>
 
@@ -34,7 +35,7 @@
     <h1>Travaux</h1>
   </section>
 
-  <section id="projects">
+  <section id="projects" class="grey">
     <section id="perso-projects">
       <h1>Travaux personnels</h1>
     </section>
@@ -43,9 +44,13 @@
     </section>
   </section>
 
-  <footer id="footer" class="full-height">
+  <section id="contact" class="full-height">
     <div class="section-anchor"></div>
     <h1>Contact</h1>
+  </section>
+
+  <footer>
+    <p>© Cool Kids Crew 2017</p>
   </footer>
 </body>
 </html>

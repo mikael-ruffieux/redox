@@ -1,1 +1,5 @@
-@import 'global.css'
+@import 'https://fonts.googleapis.com/css?family=Raleway:300,400';
+
+@import 'global.css';
+@import 'nav.css';
+@import 'footer.css';
