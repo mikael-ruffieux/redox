@@ -27,3 +27,9 @@ nav img {
   margin: 0;
   left: 40px;
 }
+
+nav.fixed {
+  position: fixed;
+  z-index: 10;
+  top: 0;
+}

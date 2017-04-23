@@ -1,0 +1,16 @@
+#home .content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#home img.arrow {
+  width: 58px;
+}
+
+#home img.logo {
+  margin: 0 0 100px 0;
+}
