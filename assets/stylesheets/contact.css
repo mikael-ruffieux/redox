@@ -1,0 +1,13 @@
+#contact {
+  background-image: url("../images/contact/background.png");
+  background-size: cover;
+}
+
+#contact .section-content {
+  position: relative;
+}
+
+#contact .information {
+  bottom: 30px;
+  position: absolute;
+}
