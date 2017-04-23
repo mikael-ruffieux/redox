@@ -16,6 +16,7 @@ $(function() {
 
 		$('.img-container').empty();
 		$('.img-container').append(content[projectIndex].items[itemIndex].content);
+		$('.img-caption').text(content[projectIndex].items[itemIndex].caption);
 	});
 
 	$('.lightbox-close').click(function() {
@@ -33,6 +34,7 @@ $(function() {
 
 			$('.img-container').empty();
 			$('.img-container').append(content[projectIndex].items[itemIndex].content);
+			$('.img-caption').text(content[projectIndex].items[itemIndex].caption);
 		}
 	});
 
@@ -42,6 +44,7 @@ $(function() {
 
 			$('.img-container').empty();
 			$('.img-container').append(content[projectIndex].items[itemIndex].content);
+			$('.img-caption').text(content[projectIndex].items[itemIndex].caption);
 		}
 	});
 
@@ -60,7 +63,7 @@ $(function() {
 				var item = project.items[i];
 
 				if (item.type == "image") {
-					item.content = $("<img>").attr('src', project.root + item.content); 
+					item.content = $("<img>").attr('src', project.itemsroot + item.content); 
 				}
 
 				if (item.type == "vimeo") {
