@@ -5,7 +5,6 @@
 .project-container {
 	float: left;
 	width: 30%;
-	background: yellow;
 	margin: 1.5%;
 }
 
@@ -17,6 +16,7 @@
 
 .project-caption {
 	text-align: center;
+	padding: 5px;
 }
 
 .lightbox {
