@@ -67,11 +67,13 @@ $(function() {
 				}
 
 				if (item.type == "vimeo") {
-					item.content = $("<iframe>");
+					item.content = $('<iframe width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
+						.attr('src', item.content);
 				}
 
 				if (item.type == "youtube") {
-					item.content = $("<iframe>");
+					item.content = $('<iframe width="560" height="315" frameborder="0" allowfullscreen></iframe>')
+						.attr('src', item.content);
 				}
 			}
 		}
