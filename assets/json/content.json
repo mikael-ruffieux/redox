@@ -90,17 +90,19 @@
 	{
 		"title" : "Sites web",
 		"thumb" : "./assets/images/projects/min_promyana.png",
-		"itemsroot" : "./assets/images/creations/",
+		"itemsroot" : "./assets/images/screenshots/",
 		"items" : [
 			{
-				"content" : "promyana.org",
+				"content" : "promyana.png",
 				"caption" : "Site internet de Promyana, Bulgarie.",
-				"type" : "website"
+				"type" : "website",
+				"link" : "http://promyana.org"
 			},
 			{
-				"content" : "stiftung-mehrwert.ch",
+				"content" : "stiftung-mehrwert.png",
 				"caption" : "Site internet de Stiftung Mehrwert, Switzerland.",
-				"type" : "website"
+				"type" : "website",
+				"link" : "http://stiftung-mehrwert.ch"
 			}
 		]
 	},

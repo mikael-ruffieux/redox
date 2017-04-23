@@ -66,6 +66,10 @@ $(function() {
 					item.content = $("<img>").attr('src', project.itemsroot + item.content); 
 				}
 
+				if (item.type == "website") {
+					item.content = $("<a>").attr('href', item.link).attr('target', '_blank').append($("<img>").attr('src', project.itemsroot + item.content)); 
+				}
+
 				if (item.type == "vimeo") {
 					item.content = $('<iframe width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>')
 						.attr('src', item.content);
