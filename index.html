@@ -12,8 +12,15 @@
 <body>
 
   <section id="home" class="full-height">
-    <img class="logo" src="./assets/images/home/logo_text.png">
-    <img class="arrow" src="./assets/images/layout/arrowdown.png">
+    <div class="video-background">
+      <video autoplay muted loop>
+        <source src="./assets/videos/home.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="content">
+      <img class="logo" src="./assets/images/home/logo_text.png">
+      <img class="arrow" src="./assets/images/layout/arrowdown.png">
+    </div>
   </section>
 
   <section id="about" class="full-height grey">
@@ -30,19 +37,29 @@
 
     <div class="section-content">
       <h1>À propos</h1>
+      <p>
+        Mikael Ruffieux,<br>
+        20ans,<br>
+        Designer et réalisateur amateur et autodidacte
     </div>
   </section>
 
   <section id="projects-intro" class="full-height">
     <div class="section-anchor"></div>
-    <div class="section-content">
+    <div class="video-background">
+      <video autoplay muted loop>
+        <source src="./assets/videos/work.mp4" type="video/mp4">
+      </video>
+    </div>
+    <div class="title">
       <h1>Travaux</h1>
     </div>
   </section>
 
   <section id="projects" class="grey">
-    <section id="perso-projects">
-    </section>
+    <div class="showreel section-content">
+      <iframe src="https://player.vimeo.com/video/214376110?portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
     <section id="collab-projects">
       <div class="section-content">
         <h1>Projets</h1>
@@ -79,7 +96,9 @@
 
   <section id="contact" class="full-height">
     <div class="section-anchor"></div>
-    <h1>Contact</h1>
+    <div class="section-content">
+      <h1>Contact</h1>
+    </div>
   </section>
 
   <footer>

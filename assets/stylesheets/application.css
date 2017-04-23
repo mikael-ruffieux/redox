@@ -1,6 +1,7 @@
-@import 'https://fonts.googleapis.com/css?family=Raleway:300,400';
+@import 'https://fonts.googleapis.com/css?family=Raleway:300,400,500';
 
 @import 'global.css';
+@import 'video-background.css';
 @import 'nav.css';
 @import 'footer.css';
 @import 'home.css';
