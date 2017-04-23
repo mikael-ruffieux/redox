@@ -9,7 +9,6 @@
 }
 
 .project-thumb {
-	height: 200px;
 	background: lightgrey;
 	cursor: pointer;
 }
@@ -77,5 +76,9 @@ body.lightbox-fullscreen {
 	border: 1px solid black;
 	line-height: 10vh;
 	vertical-align: middle;
+}
+
+.template {
+	display: none;
 }
 
