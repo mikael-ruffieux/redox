@@ -1,5 +1,37 @@
 [
 	{
+		"title" : "Créations",
+		"thumb" : "./assets/images/projects/min_r2d2.png",
+		"items" : [
+			{
+				"content" : "./assetss/images/creations/loup_vector.png",
+				"caption" : "Petit test",
+				"type" : "image"
+			},
+			{
+				"content" : "./assets/images/creations/r2d2_v1.png",
+				"caption" : "Petit test 2",
+				"type" : "image"
+			}
+		]
+	},
+	{
+		"title" : "Alpha Bulgaria",
+		"thumb" : "./assets/images/projects/min_alphastory.png",
+		"items" : [
+			{
+				"content" : "./assetss/images/creations/loup_vector.png",
+				"caption" : "Petit test",
+				"type" : "image"
+			},
+			{
+				"content" : "./assets/images/creations/r2d2_v1.png",
+				"caption" : "Petit test 2",
+				"type" : "image"
+			}
+		]
+	},
+	{
 		"title" : "Soirée Humoristique 2016",
 		"thumb" : "./assets/images/projects/min_SH.png",
 		"items" : [
@@ -16,8 +48,8 @@
 		]
 	},
 	{
-		"title" : "Vector Wolf",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"title" : "Maxi Camp 2015",
+		"thumb" : "./assets/images/projects/min_maxicamp.png",
 		"items" : [
 			{
 				"content" : "./assetss/images/creations/loup_vector.png",
@@ -32,8 +64,8 @@
 		]
 	},
 	{
-		"title" : "Projet test",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"title" : "Sites web",
+		"thumb" : "./assets/images/projects/min_promyana.png",
 		"items" : [
 			{
 				"content" : "./assetss/images/creations/loup_vector.png",
@@ -48,40 +80,8 @@
 		]
 	},
 	{
-		"title" : "Projet test",
-		"thumb" : "./assets/images/projects/min_SH.png",
-		"items" : [
-			{
-				"content" : "./assetss/images/creations/loup_vector.png",
-				"caption" : "Petit test",
-				"type" : "image"
-			},
-			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
-				"caption" : "Petit test 2",
-				"type" : "image"
-			}
-		]
-	},
-	{
-		"title" : "Projet test",
-		"thumb" : "./assets/images/projects/min_SH.png",
-		"items" : [
-			{
-				"content" : "./assetss/images/creations/loup_vector.png",
-				"caption" : "Petit test",
-				"type" : "image"
-			},
-			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
-				"caption" : "Petit test 2",
-				"type" : "image"
-			}
-		]
-	},
-	{
-		"title" : "Projet test",
-		"thumb" : "./assets/images/projects/min_SH.png",
+		"title" : "Soirée de gym 2016",
+		"thumb" : "./assets/images/projects/min_gym.png",
 		"items" : [
 			{
 				"content" : "./assetss/images/creations/loup_vector.png",
