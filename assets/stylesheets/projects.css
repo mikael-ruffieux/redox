@@ -12,8 +12,32 @@
 .project-thumb {
 	height: 200px;
 	background: lightgrey;
+	cursor: pointer;
 }
 
 .project-caption {
 	text-align: center;
+}
+
+.lightbox {
+	display: none;
+}
+
+.lightbox.show {
+	display: block;
+	position: fixed;
+	z-index: 1000;
+	left: 0;
+	top: 0;
+	height: 100vh;
+	width: 100%;
+	background-color: lightgray;
+}
+
+body.lightbox-fullscreen {
+	overflow: hidden;
+}
+
+.lightbox-close {
+	cursor: pointer;
 }
