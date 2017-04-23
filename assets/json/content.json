@@ -4,12 +4,92 @@
 		"thumb" : "./assets/images/projects/min_SH.png",
 		"items" : [
 			{
-				"url" : "./assets/images/creations/loup_vector.png",
+				"content" : "./assetss/images/creations/loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
 			{
-				"url" : "./assets/images/creations/r2d2_v1.png",
+				"content" : "./assets/images/creations/r2d2_v1.png",
+				"caption" : "Petit test 2",
+				"type" : "image"
+			}
+		]
+	},
+	{
+		"title" : "Projet test",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"items" : [
+			{
+				"content" : "./assetss/images/creations/loup_vector.png",
+				"caption" : "Petit test",
+				"type" : "image"
+			},
+			{
+				"content" : "./assets/images/creations/r2d2_v1.png",
+				"caption" : "Petit test 2",
+				"type" : "image"
+			}
+		]
+	},
+	{
+		"title" : "Projet test",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"items" : [
+			{
+				"content" : "./assetss/images/creations/loup_vector.png",
+				"caption" : "Petit test",
+				"type" : "image"
+			},
+			{
+				"content" : "./assets/images/creations/r2d2_v1.png",
+				"caption" : "Petit test 2",
+				"type" : "image"
+			}
+		]
+	},
+	{
+		"title" : "Projet test",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"items" : [
+			{
+				"content" : "./assetss/images/creations/loup_vector.png",
+				"caption" : "Petit test",
+				"type" : "image"
+			},
+			{
+				"content" : "./assets/images/creations/r2d2_v1.png",
+				"caption" : "Petit test 2",
+				"type" : "image"
+			}
+		]
+	},
+	{
+		"title" : "Projet test",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"items" : [
+			{
+				"content" : "./assetss/images/creations/loup_vector.png",
+				"caption" : "Petit test",
+				"type" : "image"
+			},
+			{
+				"content" : "./assets/images/creations/r2d2_v1.png",
+				"caption" : "Petit test 2",
+				"type" : "image"
+			}
+		]
+	},
+	{
+		"title" : "Projet test",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"items" : [
+			{
+				"content" : "./assetss/images/creations/loup_vector.png",
+				"caption" : "Petit test",
+				"type" : "image"
+			},
+			{
+				"content" : "./assets/images/creations/r2d2_v1.png",
 				"caption" : "Petit test 2",
 				"type" : "image"
 			}
