@@ -17,3 +17,9 @@ section.full-height {
 section.grey {
 	background-color: #282828
 }
+
+.section-content {
+	width: 95%;
+	max-width: 100px;
+	margin: auto;
+}
