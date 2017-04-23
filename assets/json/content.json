@@ -2,14 +2,15 @@
 	{
 		"title" : "Soirée Humoristique 2016",
 		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "./assets/images/creations/loup_vector.png",
+				"content" : "loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
 			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
+				"content" : "r2d2_v1.png",
 				"caption" : "Petit test 2",
 				"type" : "image"
 			}
@@ -18,14 +19,15 @@
 	{
 		"title" : "Vector Wolf",
 		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "./assets/images/creations/loup_vector.png",
+				"content" : "loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
 			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
+				"content" : "r2d2_v1.png",
 				"caption" : "Petit test 2",
 				"type" : "image"
 			}
@@ -34,14 +36,15 @@
 	{
 		"title" : "Projet test",
 		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "./assets/images/creations/loup_vector.png",
+				"content" : "loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
 			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
+				"content" : "r2d2_v1.png",
 				"caption" : "Petit test 2",
 				"type" : "image"
 			}
@@ -50,14 +53,15 @@
 	{
 		"title" : "Projet test",
 		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "./assets/images/creations/loup_vector.png",
+				"content" : "loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
 			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
+				"content" : "r2d2_v1.png",
 				"caption" : "Petit test 2",
 				"type" : "image"
 			}
@@ -66,14 +70,15 @@
 	{
 		"title" : "Projet test",
 		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "./assets/images/creations/loup_vector.png",
+				"content" : "loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
 			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
+				"content" : "r2d2_v1.png",
 				"caption" : "Petit test 2",
 				"type" : "image"
 			}
@@ -82,14 +87,15 @@
 	{
 		"title" : "Projet test",
 		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "./assets/images/creations/loup_vector.png",
+				"content" : "loup_vector.png",
 				"caption" : "Petit test",
 				"type" : "image"
 			},
 			{
-				"content" : "./assets/images/creations/r2d2_v1.png",
+				"content" : "r2d2_v1.png",
 				"caption" : "Petit test 2",
 				"type" : "image"
 			}

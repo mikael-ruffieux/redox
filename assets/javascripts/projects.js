@@ -60,7 +60,7 @@ $(function() {
 				var item = project.items[i];
 
 				if (item.type == "image") {
-					item.content = $("<img>").attr('src', item.content); 
+					item.content = $("<img>").attr('src', project.root + item.content); 
 				}
 
 				if (item.type == "vimeo") {
