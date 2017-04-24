@@ -6,8 +6,8 @@
 		"items" : [
 			{
 				"content" : "loup_vector.png",
-				"caption" : "Description",
-				"type" : "Travail de vectorisation, en se basant sur une photographie."
+				"caption" : "Travail de vectorisation, en se basant sur une photographie.",
+				"type" : "image"
 			},
 			{
 				"content" : "r2d2_v1.png",
@@ -21,7 +21,7 @@
 			},
 			{
 				"content" : "forest_flat_wallpaper_2.png",
-				"caption" : "Création d'un fond d'écran en 2D, inspiré du site www.firewatchgame.com"
+				"caption" : "Création d'un fond d'écran en 2D, inspiré du site www.firewatchgame.com",
 				"type" : "image"
 			},
 			{
