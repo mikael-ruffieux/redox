@@ -64,7 +64,7 @@
 		]
 	},
 	{
-		"title" : "Soirée Humoristique 2016",
+		"title" : "Vidéos diverses",
 		"thumb" : "./assets/images/projects/min_SH.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
@@ -72,18 +72,73 @@
 				"content" : "https://www.youtube.com/embed/4gGOsYrpLY4",
 				"caption" : "Trailer de la Soirée Humoristique 2016 du Collège du Sud.",
 				"type" : "youtube"
-			}
-		]
-	},
-	{
-		"title" : "Maxi Camp 2015",
-		"thumb" : "./assets/images/projects/min_maxicamp.png",
-		"itemsroot" : "./assets/images/creations/",
-		"items" : [
+			},
 			{
 				"content" : "https://www.youtube.com/embed/w0GQ2Vjvtyc",
 				"caption" : "Vidéo promotionnelle pour le Maxi Camp, un camp d'été, 2015.",
 				"type" : "youtube"
+			}
+		]
+	},
+	{
+		"title" : "Photographies",
+		"thumb" : "./assets/images/projects/min_maxicamp.png",
+		"itemsroot" : "./assets/images/creations/photos/",
+		"items" : [
+			{
+				"content" : "2.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "3.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "4.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "5.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "6.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "7.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "8.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "9.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "10.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "11.jpg",
+				"caption" : "Description",
+				"type" : "image"
+			},
+			{
+				"content" : "12.jpg",
+				"caption" : "Description",
+				"type" : "image"
 			}
 		]
 	},
