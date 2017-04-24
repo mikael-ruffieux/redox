@@ -7,41 +7,41 @@
 			{
 				"content" : "loup_vector.png",
 				"caption" : "Description",
-				"type" : "image"
+				"type" : "Travail de vectorisation, en se basant sur une photographie."
 			},
 			{
 				"content" : "r2d2_v1.png",
-				"caption" : "Description",
+				"caption" : "Digital Painting du célèbre droïde R2D2.",
 				"type" : "image"
 			},
 			{
 				"content" : "lysandre top gun v2.png",
-				"caption" : "Description",
+				"caption" : "Montage Photoshop pour un ami, fan de Top Gun.",
 				"type" : "image"
 			},
 			{
 				"content" : "forest_flat_wallpaper_2.png",
-				"caption" : "Description",
+				"caption" : "Création d'un fond d'écran en 2D, inspiré du site www.firewatchgame.com"
 				"type" : "image"
 			},
 			{
 				"content" : "top_gun_v2.png",
-				"caption" : "Description",
+				"caption" : "Dans la suite des travaux avec comme thème 'Top Gun', fond d'écran en 2D, avec Digital Painting.",
 				"type" : "image"
 			},
 			{
 				"content" : "top_gun_v1.png",
-				"caption" : "Description",
+				"caption" : "Même série de travaux : 'Top Gun'.",
 				"type" : "image"
 			},
 			{
 				"content" : "flyer SOS.png",
-				"caption" : "Description",
+				"caption" : "Logo créé pour un projet de la paroisse réformée de Bulle.",
 				"type" : "image"
 			},
 			{
 				"content" : "logo_deathless_final.png",
-				"caption" : "Description",
+				"caption" : "Logo créé pour le groupe de hard rock 'Deathless'.",
 				"type" : "image"
 			}
 		]
@@ -87,57 +87,57 @@
 		"items" : [
 			{
 				"content" : "2.jpg",
-				"caption" : "Description",
+				"caption" : "Couché de soleil sur la place d'armes de Thun CH, avril 2017.",
 				"type" : "image"
 			},
 			{
 				"content" : "3.jpg",
-				"caption" : "Description",
+				"caption" : "Couché de soleil sur la verte Gruyère, avril 2017.",
 				"type" : "image"
 			},
 			{
 				"content" : "4.jpg",
-				"caption" : "Description",
+				"caption" : "Levé de soleil hivernal sur la place d'armes de Thun CH, mars 2017.",
 				"type" : "image"
 			},
 			{
 				"content" : "5.jpg",
-				"caption" : "Description",
+				"caption" : "Levé de soleil à travers la forêt durant un exercice, Thun CH, mars 2017.",
 				"type" : "image"
 			},
 			{
 				"content" : "6.jpg",
-				"caption" : "Description",
+				"caption" : "Panorama capturé lors d'une virée à moto, au Col des Mosses CH, mars 2017.",
 				"type" : "image"
 			},
 			{
 				"content" : "7.jpg",
-				"caption" : "Description",
+				"caption" : "Instant capturé le premier jour de l'année 2017.",
 				"type" : "image"
 			},
 			{
 				"content" : "8.jpg",
-				"caption" : "Description",
+				"caption" : "Soirée au sein de l'Ecole blindés de l'Armée Suisse, Thun CH, décembre 2016.",
 				"type" : "image"
 			},
 			{
 				"content" : "9.jpg",
-				"caption" : "Description",
+				"caption" : "Exercice matinal, Thun CH, novembre 2016.",
 				"type" : "image"
 			},
 			{
 				"content" : "10.jpg",
-				"caption" : "Description",
+				"caption" : "Levé de soleil sur la piste des chars de Thun CH, novembre 2016.",
 				"type" : "image"
 			},
 			{
 				"content" : "11.jpg",
-				"caption" : "Description",
+				"caption" : "Le vrai et l'unique Stockhorn, Thun CH, novembre 2016.",
 				"type" : "image"
 			},
 			{
 				"content" : "12.jpg",
-				"caption" : "Description",
+				"caption" : "Couché de soleil depuis la Chia, en Gruyère, octobre 2016.",
 				"type" : "image"
 			}
 		]
