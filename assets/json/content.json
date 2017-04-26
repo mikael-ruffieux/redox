@@ -82,7 +82,7 @@
 	},
 	{
 		"title" : "Photographies",
-		"thumb" : "./assets/images/projects/min_maxicamp.png",
+		"thumb" : "./assets/images/projects/min_photo.jpg",
 		"itemsroot" : "./assets/images/creations/photos/",
 		"items" : [
 			{
