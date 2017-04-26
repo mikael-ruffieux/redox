@@ -6,6 +6,11 @@ $(function() {
 	var projectIndex = -1;
 	var itemIndex = -1;
 
+	$('a[href*=\\#]').on('click', function(event){     
+	    event.preventDefault();
+	    $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+	});
+
 	$('.project-thumb').click(function() {
 		
 		$('.lightbox').addClass('show');
