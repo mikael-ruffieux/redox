@@ -1,6 +1,6 @@
 [
 	{
-		"title" : "Créations",
+		"title" : "Bulle Box - Service de la Jeunesse, Bulle",
 		"thumb" : "./assets/images/projects/min_r2d2.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
@@ -8,54 +8,63 @@
 				"content" : "loup_vector.png",
 				"caption" : "Travail de vectorisation, en se basant sur une photographie.",
 				"type" : "image"
-			},
-			{
-				"content" : "r2d2_v1.png",
-				"caption" : "Digital Painting du célèbre droïde R2D2.",
-				"type" : "image"
-			},
-			{
-				"content" : "lysandre top gun v2.png",
-				"caption" : "Montage Photoshop pour un ami, fan de Top Gun.",
-				"type" : "image"
-			},
-			{
-				"content" : "forest_flat_wallpaper_2.png",
-				"caption" : "Création d'un fond d'écran en 2D, inspiré du site www.firewatchgame.com",
-				"type" : "image"
-			},
-			{
-				"content" : "top_gun_v2.png",
-				"caption" : "Dans la suite des travaux avec comme thème 'Top Gun', fond d'écran en 2D, avec Digital Painting.",
-				"type" : "image"
-			},
-			{
-				"content" : "top_gun_v1.png",
-				"caption" : "Même série de travaux : 'Top Gun'.",
-				"type" : "image"
-			},
-			{
-				"content" : "flyer SOS.png",
-				"caption" : "Logo créé pour un projet de la paroisse réformée de Bulle.",
-				"type" : "image"
-			},
-			{
-				"content" : "logo_deathless_final.png",
-				"caption" : "Logo créé pour le groupe de hard rock 'Deathless'.",
-				"type" : "image"
 			}
 		]
 	},
 	{
-		"title" : "Alpha Bulgaria",
+		"title" : "Budapest - Sziget Festival 2017",
 		"thumb" : "./assets/images/projects/min_alphastory.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "https://www.youtube.com/embed/iw9aRkh6fGE",
-				"caption" : "Le témoignage de Christo, Alpha Story.",
-				"type" : "youtube"
-			},
+				"content" : "https://player.vimeo.com/video/247694127",
+				"caption" : "Voyage à Budapest, 2017.",
+				"type" : "vimeo"
+			}
+
+		]
+	},
+	{
+		"title" : "Dent de Broc 2017",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
+		"items" : [
+			{
+				"content" : "https://player.vimeo.com/video/220195324",
+				"caption" : "La Dent de Broc, 2017.",
+				"type" : "vimeo"
+			}
+		]
+	},
+	{
+		"title" : "Showreel 2016",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
+		"items" : [
+			{
+				"content" : "https://player.vimeo.com/video/214376110",
+				"caption" : "Showreel 2016",
+				"type" : "vimeo"
+			}
+		]
+	},
+	{
+		"title" : "Soirée de gym 2016 - FSG Bulle",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
+		"items" : [
+			{
+				"content" : "https://player.vimeo.com/video/214411319",
+				"caption" : "Vidéo de présentation des Juniors Mixtes, lors de la soirée de gym 2016 de la FSG Bulle",
+				"type" : "vimeo"
+			}
+		]
+	},
+	{
+		"title" : "Alpha Youth Training",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
+		"items" : [
 			{
 				"content" : "https://www.youtube.com/embed/AkiyKayBtD0",
 				"caption" : "Vidéo rétrospective de l'Alpha Youth Training de Sofia, 2016.",
@@ -64,25 +73,34 @@
 		]
 	},
 	{
-		"title" : "Vidéos diverses",
+		"title" : "Alpha Story - Christo",
 		"thumb" : "./assets/images/projects/min_SH.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "https://player.vimeo.com/video/247694127",
-				"caption" : "Voyage à Budapest, 2017.",
-				"type" : "vimeo"
+				"content" : "https://www.youtube.com/embed/iw9aRkh6fGE",
+				"caption" : "Le témoignage de Christo, Alpha Story.",
+				"type" : "youtube"
 			},
-			{
-				"content" : "https://player.vimeo.com/video/220195324",
-				"caption" : "La Dent de Broc, 2017.",
-				"type" : "vimeo"
-			},
+		]
+	},
+	{
+		"title" : "Soirée humoristique 2016 - Collège du Sud",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
+		"items" : [
 			{
 				"content" : "https://www.youtube.com/embed/4gGOsYrpLY4",
 				"caption" : "Trailer de la Soirée Humoristique 2016 du Collège du Sud.",
 				"type" : "youtube"
-			},
+			}
+		]
+	},
+	{
+		"title" : "Maxi Camp 2015",
+		"thumb" : "./assets/images/projects/min_SH.png",
+		"itemsroot" : "./assets/images/creations/",
+		"items" : [
 			{
 				"content" : "https://www.youtube.com/embed/w0GQ2Vjvtyc",
 				"caption" : "Vidéo promotionnelle pour le Maxi Camp, un camp d'été, 2015.",
@@ -90,6 +108,64 @@
 			}
 		]
 	},
+
+
+
+
+
+
+
+	{
+		"title" : "Bulle Box - Service de la Jeunesse, Bulle",
+		"thumb" : "./assets/images/projects/min_promyana.png",
+		"itemsroot" : "./assets/images/screenshots/",
+		"items" : [
+			{
+				"content" : "promyana.png",
+				"caption" : "Bulletin de commande de la Bulle Box.",
+				"type" : "website",
+				"link" : "http://centranim.ch/bullebox"
+			}
+		]
+	},
+	{
+		"title" : "Promyana, Alpha Bulgaria",
+		"thumb" : "./assets/images/projects/min_promyana.png",
+		"itemsroot" : "./assets/images/screenshots/",
+		"items" : [
+			{
+				"content" : "promyana.png",
+				"caption" : "Site internet de Promyana, Bulgarie.",
+				"type" : "website",
+				"link" : "http://promyana.org"
+			}
+		]
+	},
+	{
+		"title" : "Stiftung Mehrwert",
+		"thumb" : "./assets/images/projects/min_promyana.png",
+		"itemsroot" : "./assets/images/screenshots/",
+		"items" : [
+			{
+				"content" : "stiftung-mehrwert.png",
+				"caption" : "Site internet de Stiftung Mehrwert, Switzerland.",
+				"type" : "website",
+				"link" : "http://stiftung-mehrwert.ch"
+			}
+		]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"title" : "Photographies",
 		"thumb" : "./assets/images/projects/min_photo.jpg",
@@ -153,34 +229,51 @@
 		]
 	},
 	{
-		"title" : "Sites web",
-		"thumb" : "./assets/images/projects/min_promyana.png",
-		"itemsroot" : "./assets/images/screenshots/",
-		"items" : [
-			{
-				"content" : "promyana.png",
-				"caption" : "Site internet de Promyana, Bulgarie.",
-				"type" : "website",
-				"link" : "http://promyana.org"
-			},
-			{
-				"content" : "stiftung-mehrwert.png",
-				"caption" : "Site internet de Stiftung Mehrwert, Switzerland.",
-				"type" : "website",
-				"link" : "http://stiftung-mehrwert.ch"
-			}
-		]
-	},
-	{
-		"title" : "Soirée de gym 2016",
-		"thumb" : "./assets/images/projects/min_gym.png",
+		"title" : "Créations graphiques",
+		"thumb" : "./assets/images/projects/min_r2d2.png",
 		"itemsroot" : "./assets/images/creations/",
 		"items" : [
 			{
-				"content" : "https://player.vimeo.com/video/214411319",
-				"caption" : "Vidéo introduisant le spectacle du groupe des 'Juniors' pendant la Soirée de Gym de la FSG Bulle, 2016.",
-				"type" : "vimeo"
+				"content" : "loup_vector.png",
+				"caption" : "Travail de vectorisation, en se basant sur une photographie.",
+				"type" : "image"
+			},
+			{
+				"content" : "r2d2_v1.png",
+				"caption" : "Digital Painting du célèbre droïde R2D2.",
+				"type" : "image"
+			},
+			{
+				"content" : "lysandre top gun v2.png",
+				"caption" : "Montage Photoshop pour un ami, fan de Top Gun.",
+				"type" : "image"
+			},
+			{
+				"content" : "forest_flat_wallpaper_2.png",
+				"caption" : "Création d'un fond d'écran en 2D, inspiré du site www.firewatchgame.com",
+				"type" : "image"
+			},
+			{
+				"content" : "top_gun_v2.png",
+				"caption" : "Dans la suite des travaux avec comme thème 'Top Gun', fond d'écran en 2D, avec Digital Painting.",
+				"type" : "image"
+			},
+			{
+				"content" : "top_gun_v1.png",
+				"caption" : "Même série de travaux : 'Top Gun'.",
+				"type" : "image"
+			},
+			{
+				"content" : "flyer SOS.png",
+				"caption" : "Logo créé pour un projet de la paroisse réformée de Bulle.",
+				"type" : "image"
+			},
+			{
+				"content" : "logo_deathless_final.png",
+				"caption" : "Logo créé pour le groupe de hard rock 'Deathless'.",
+				"type" : "image"
 			}
 		]
-	}
+	},
+	
 ]
