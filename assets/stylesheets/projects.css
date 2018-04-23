@@ -24,14 +24,24 @@
 }
 
 #projects td {
-	padding: 12px;
+	margin: 12px;
 }
 
 
 
 #projects p {
 	text-align: center;
-	margin: 0px;
+	margin: 5px 0px;
 }
 
+#projects img {
+	width: 300px;
+	height: 170px;
+	border: solid 2px rgba(256,256,256, 0);
+	border-radius : 2px;
 
+}
+
+#projects img:hover {
+	border: solid 2px rgba(256,256,256, 0.5)
+}
