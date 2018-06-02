@@ -1,0 +1,64 @@
+#projects-intro {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url("../images/creations/4.png");
+	background-size: 100% auto;
+	background-color: red;
+	background-attachment: fixed;
+}
+
+#projects-intro .title h1 {
+	font-size: 80px;
+	font-weight: 500;
+	text-transform: uppercase;
+	text-align: center;
+	border: solid white 1vh;
+	border-radius: 0.5vh;
+	padding:1vh 4vh;
+}
+
+.showreel iframe {
+	height: 585px;
+	width: 1000px;
+}
+
+.showreel {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+#projects h1 {
+	margin: 7vh 0;
+}
+
+.flex-gallery {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items:center;
+	padding: 2vh 7vh;
+	margin-bottom: 7vh;
+}
+
+.gallery-item{
+	margin: 1vh;
+	text-align: center;
+}
+
+#projects p {
+	margin: 5px 0px;
+}
+
+#projects img {
+	height: 25vh;
+	width: auto;
+	border: solid 2px rgba(256,256,256, 0);
+	border-radius : 2px;
+}
+
+#projects img:hover {
+	border: solid 2px rgba(256,256,256, 1)
+}
