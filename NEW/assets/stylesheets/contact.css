@@ -1,10 +1,9 @@
 #contact {
-  background-image: url("../images/contact/background.png");
+  background-image: url("../images/layout/iceland_5.jpg");
   background-size: cover;
-  background-position: bottom;
+  background-position: bottom right;
   background-attachment: fixed;
   border: solid rgb(0, 0, 0) 1px;
-  color: white;
   position: relative;
 }
 

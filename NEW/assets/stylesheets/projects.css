@@ -2,10 +2,11 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-image: url("../images/creations/4.png");
-	background-size: 100% auto;
-	background-color: red;
+	background-image: url("../images/layout/iceland_3.jpg");
+	background-size: cover;
 	background-attachment: fixed;
+	background-position: center center;
+	background-repeat: no-repeat;
 }
 
 #projects-intro .title h1 {
