@@ -1,9 +1,9 @@
 #home {
-  background-image: url("../images/layout/iceland_4_test.jpg");
+  background-image: url("../images/layout/iceland_4.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: top center;
   position: relative;
 }
 
@@ -15,14 +15,6 @@
   align-items: center;
 }
 
-/*
-#home img.background {
-  width: 100%;
-  height: auto;
-  position: fixed;
-  z-index: -1;
-}
-*/
 #home img {
   padding: 5px;
   width: 3vw;
@@ -34,14 +26,54 @@
   bottom:10px;
 }
 
+@media screen and (max-width: 425px) {
+  #home img { 
+    width: 5vw;
+
+  }
+}
+
 #home img.logo {
-  width: 200px;
-  margin-top: 150px;
+  width: 20vw;
+  max-width: 302px;
+  margin-top: 20vh;
+}
+
+/* TABLETTES */
+
+@media (max-width: 768px) {
+  #home img.logo {
+    width: 30vw ;
+    max-width: 302px;
+    margin-top: 30vh;
+  }
+}
+
+/* MOBILES */
+
+@media (max-width: 425px) {
+  #home img.logo { 
+    width: 50vw;
+  }
 }
 
 #home img.logo-text {
   width: 40%;
-  margin-top: 25px;
+  margin-top: 5vh;
+  
+}
+
+@media (max-width: 768px) {
+  #home img.logo-text {
+    width: 50% ;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #home img.logo-text { 
+    width: 60%;
+    margin-top: 2vh;
+  }
 }
 
 /*

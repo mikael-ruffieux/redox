@@ -1,15 +1,16 @@
 nav {
-  width: 100%;
+  width: 100vw;
   z-index: 10;
-  display: flex;
   position: fixed;
-  flex-wrap:wrap;
-  justify-content: center;
-  align-items:center;
 }
 
 nav ul {
   list-style-type: none;
+  display: flex;
+  flex-direction: line;
+  justify-content: center;
+  align-items:center;
+  flex-wrap: wrap;
   width: 100%;
   margin: 0;
   padding: 0;
@@ -19,16 +20,12 @@ nav ul {
 
 nav li {
   text-transform: uppercase;
-  font-size: 20px;
-  float: left;
-  width: 20%;
-  text-align: center;
 }
 
 nav li a, .dropbtn {
   display: inline-block;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 34px;
   text-decoration: none;
 }
 
@@ -45,7 +42,7 @@ nav li.dropdown {
   position: absolute;
   text-align: center;
   background-color: black;
-  width: 20%;
+  width: auto;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index:11;
 }
@@ -58,6 +55,20 @@ nav li.dropdown {
   nav ul li a {
     text-align: center;
     float: none;
+  }
+}
+
+@media (max-width: 768px) {
+  class {
+
+  }
+}
+
+/* MOBILES */
+
+@media (max-width: 425px) {
+  class { 
+
   }
 }
 

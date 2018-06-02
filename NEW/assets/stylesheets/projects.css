@@ -9,19 +9,16 @@
 	background-repeat: no-repeat;
 }
 
-#projects-intro .title h1 {
-	font-size: 80px;
-	font-weight: 500;
-	text-transform: uppercase;
-	text-align: center;
-	border: solid white 1vh;
-	border-radius: 0.5vh;
-	padding:1vh 4vh;
-}
-
 .showreel iframe {
 	height: 585px;
 	width: 1000px;
+}
+
+@media screen and (max-width: 1000px) {
+	.showreel iframe {
+		height: auto;
+		width: auto;
+	}
 }
 
 .showreel {
