@@ -32,6 +32,16 @@
 	margin: 7vh 0;
 }
 
+#projects h1.right {
+	text-align: right;
+}
+
+@media screen and (max-width: 425px) {
+	#projects h1, #projects h1.right {
+		text-align: center;
+	}
+}
+
 .flex-gallery {
 	display: flex;
 	flex-wrap: wrap;
@@ -55,6 +65,12 @@
 	width: auto;
 	border: solid 2px rgba(256,256,256, 0);
 	border-radius : 2px;
+}
+
+@media screen and (max-width: 768px) {
+	#projects img {
+		height: 18vh;
+	}
 }
 
 #projects img:hover {

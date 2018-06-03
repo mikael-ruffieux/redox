@@ -9,13 +9,17 @@
 }
 
 #services .skills {
-  width: 18vw;
-  min-width: 220px;
+  min-width: 200px;
+  max-width: 250px;
   text-align: center;
   margin: 10px;
   background-color: black;
-  padding: 10vh 3vh; 
+  padding: 5vh 3vh; 
   border-radius: 4px;
+}
+
+#services p {
+	min-width: 200px;
 }
 
 #services img {
@@ -24,15 +28,17 @@
 
 .member {
 	max-width: 300px;
-	margin: 10vh;
+	margin: 5vh;
 	text-align: center;
 }
 
+#team {
+	margin-top: 15vh;
+}
+
 .member img {
-	width: 15vw;
 	min-width: 120px;
 	max-width: 150px;
-	height: 15vw;
 	min-height: 120px;
 	max-height: 150px;
 	border: solid white 3px;

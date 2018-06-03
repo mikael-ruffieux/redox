@@ -1,18 +1,22 @@
 #contact {
   background-image: url("../images/layout/iceland_1_mir.jpg");
   background-size: cover;
-  background-position: top right;
+  background-position: top center;
   background-attachment: fixed;
-  border: solid rgb(0, 0, 0) 1px;
   position: relative;
+  height: 200vh;
 }
 
-#contact i {
-	color: red;
+@media screen and (max-width: 425px){
+	#contact {
+		height: 150vh;
+	}
 }
 
-#contact a {
-	color: red;
+@media screen and (max-width: 425px){
+	.box img {
+		width: 5vh;
+	}
 }
 
 #contact .section-content {
@@ -28,6 +32,15 @@
 	position: absolute;
 	bottom: 0;
 }
+
+@media screen and (max-width: 425px){
+	#contact .section-content {
+		width: auto;
+		margin: 12vh auto;
+		border-radius: 0px;
+	}
+}
+
 .contact-box {
 	display: flex;
 	flex-wrap:wrap;
@@ -38,8 +51,8 @@
 .box {
 	border: solid black 1px;
 	border-radius: 4px;
-	width: 250px;
-	min-width: 150px;
+	max-width: 180px;
+	width: 70vw;
 	padding: 2vh;
 	margin: 2vh 1vh;
 	text-align: center;
