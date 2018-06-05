@@ -27,13 +27,14 @@
 }
 
 .member {
-	max-width: 300px;
+	max-width: 25vw ;
+	min-width: 300px;
 	margin: 5vh;
 	text-align: center;
 }
 
 #team {
-	margin-top: 15vh;
+	margin: 15vh 0;
 }
 
 .member img {
