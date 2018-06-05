@@ -5,6 +5,7 @@
   <script src="https://code.jquery.com/jquery-3.2.1.min.js"
   integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
   crossorigin="anonymous"></script>
+  <script src="order.js"></script>
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/6.0.0/normalize.min.css">
   <link rel="stylesheet" type="text/css" href="./assets/stylesheets/application.css">
 
@@ -224,7 +225,7 @@
   <section id="contact">
     <div class="section-content" id="contact-anchor">
       <h1> Contact</h1>
-      <p>Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous via ce formulaire, ou directement par téléphone ou courriel.</p>
+      <p>Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous <!--via ce formulaire, ou directement--> par téléphone ou courriel.</p>
       <div class="contact-box">
         <div class="box">
           <img src="./assets/images/contact/phone.png ">
@@ -236,12 +237,12 @@
         </div>
       </div>
 
-      <form action="" method="post" align="center">
+      <form action="contact.php" method="post" align="center">
         <input type="text" name="name" maxlength="60" size="30" placeholder="Votre nom, prénom..*"></input>
-        <input type="email" name="mail" maxlength="60" size="30" placeholder="Votre e-mail..*"></input>
+        <input type="email" name="email" maxlength="60" size="30" placeholder="Votre e-mail..*"></input>
         <input type="text" name="subject" maxlength="60" size="30" placeholder="Sujet.."></input>
         <textarea name="message" maxlength="1000" rows="6" cols="25" placeholder="Votre message..*"></textarea>
-        <input type="submit" value="Envoyer">
+        <input type="submit" value="Envoyer" name="contact">
       </form>
     </div>
   </section>
