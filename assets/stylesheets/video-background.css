@@ -1,6 +1,8 @@
 .video-background video {
-  min-width: 100%;
-  min-height: 100%;
-  position: absolute;
-  z-index: -1000;
+	height: auto;
+	width: 100vw;
+	position: absolute;
+	z-index: -1000;
+	transform: translate(-33.333333%, -50%);
+	display: none;
 }

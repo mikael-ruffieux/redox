@@ -1,3 +1,3 @@
 # Redox
 
-Mikael Ruffieux's showcase website.
+Redox Prod. offical webpage.

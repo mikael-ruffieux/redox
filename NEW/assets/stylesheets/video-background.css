@@ -1,8 +1,0 @@
-.video-background video {
-	height: auto;
-	width: 100vw;
-	position: absolute;
-	z-index: -1000;
-	transform: translate(-33.333333%, -50%);
-	display: none;
-}

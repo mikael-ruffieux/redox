@@ -1,0 +1,6 @@
+.video-background video {
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  z-index: -1000;
+}

@@ -1,0 +1,40 @@
+body {
+	font-family: 'Raleway', Arial, sans-serif;
+	color: #f1f1f1;
+	background-color: #282828;
+	padding: 0px;
+	margin: 0px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 50px;
+}
+
+section {
+	width: 100%;
+}
+
+section.full-height {
+	height: 100vh;
+}
+
+a {
+	color: #f1f1f1;
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bolder;
+}
+
+.grey {
+	background-color: #282828
+}
+
+.section-content {
+	width: 95%;
+	height: 100%;
+	max-width: 1000px;
+	margin: auto;
+}
