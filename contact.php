@@ -46,7 +46,7 @@ EOT;
 
 function send_email($object, $content, $reply_to, $sent_to_email) {
 
-  $headers	= "From: Bulle Box <".$sent_to_email.">\r\n".
+  $headers	= "From: Redox Prod. <".$sent_to_email.">\r\n".
               "Reply-To: ".$reply_to."\r\n".
               "MIME-Version: 1.0\r\n".
               "Content-type: text/html; charset=UTF-8\r\n";
