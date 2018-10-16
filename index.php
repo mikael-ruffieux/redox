@@ -70,7 +70,7 @@
       <p style="text-align:justify;width:80%">Redox Prod: une petite équipe qui voit les choses en grand ! Le label rassemble trois étudiants en informatique et communication, mais qui sont avant tout de grands passionnés dans leurs domaines respectifs. Notre but est d'offrir un service de qualité, et à petit prix. Redox Prod offre à votre organisation un service très complet et tout à fait compétent par rapport à notre statut.<br><br>Notre équipe : </p>
   </div>
     <section id="team" class="flex-box">
-      <div class="member"><img src="https://scontent-mxp1-1.cdninstagram.com/vp/1208be370e91f3af08b01f2c1b4f9e82/5BBB1EC7/t51.2885-15/s640x640/sh0.08/e35/c182.0.715.715/32831668_1433875240092142_2428671527621754880_n.jpg"><p>MIKAËL RUFFIEUX<br>-<br>
+      <div class="member"><img src="assets/images/team/mika.JPG"><p>MIKAËL RUFFIEUX<br>-<br>
       Vidéaste, graphiste et web-designer</p></div>
       <div class="member"><img src="assets/images/team/keran.jpg"><p>KERAN KOCHER<br>-<br>
       Photographe, front & back end programmeur</p></div>
