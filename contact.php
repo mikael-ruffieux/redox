@@ -1,7 +1,7 @@
 <?php
 $valid = false;
 $sent_to_email = "ruffieux.mikael@gmail.com";
-$order_url = "/redox/index.php";
+$order_url = "/redox/index.html";
 
 if (isset($_POST["contact"])) {
   $text_fields = ["name", "subject"];
