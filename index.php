@@ -285,28 +285,28 @@
             </h3>
           </div>
         </div>
-        <!--<div class="row">
+        <div class="row">
           <div class="col-lg-12 text-center">
             
             <form id="contactForm" name="sentMessage" novalidate="novalidate" action="contact.php" method="post">
               <div class="row">
                 <div class="col-md-6">
                   <div class="form-group">
-                    <input class="form-control" id="name" type="text" maxlength="60" size="30" placeholder="Votre nom *" required="required" data-validation-required-message="Merci d'entrer votre nom.">
+                    <input class="form-control" name="name" type="text" maxlength="60" size="30" placeholder="Votre nom *" required="required" data-validation-required-message="Merci d'entrer votre nom.">
                     <p class="help-block text-warning"></p>
                   </div>
                   <div class="form-group">
-                    <input class="form-control" id="email" type="email" maxlength="60" size="30" placeholder="Votre Email *" required="required" data-validation-required-message="Merci d'entrer votre adresse e-mail.">
+                    <input class="form-control" name="email" type="email" maxlength="60" size="30" placeholder="Votre Email *" required="required" data-validation-required-message="Merci d'entrer votre adresse e-mail.">
                     <p class="help-block text-warning"></p>
                   </div>
                   <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" maxlength="13" placeholder="Votre n° de téléphone">
+                    <input class="form-control" name="phone" type="tel" maxlength="13" placeholder="Votre n° de téléphone">
                     <p class="help-block text-warning"></p>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Votre message *" required="required" data-validation-required-message="Merci d'entrer un message."></textarea>
+                    <textarea class="form-control" name="message" placeholder="Votre message *" required="required" data-validation-required-message="Merci d'entrer un message."></textarea>
                     <p class="help-block text-warning"></p>
                   </div>
                 </div>
@@ -318,7 +318,7 @@
               </div>
             </form>
           </div>
-        </div>-->
+        </div>
       </div>
     </section>
 
