@@ -313,7 +313,7 @@
                 <div class="clearfix"></div>
                 <div class="col-lg-12 text-center">
                   <div id="success"></div>
-                  <input id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit" value="Envoyer" name="contact">
+                  <input name="contact" class="btn btn-primary btn-xl text-uppercase" type="submit" value="Envoyer" name="contact">
                 </div>
               </div>
             </form>
