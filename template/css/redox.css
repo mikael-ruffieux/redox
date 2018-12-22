@@ -338,9 +338,8 @@ header.masthead .intro-text .intro-heading {
 
 #portfolio .portfolio-item .portfolio-caption p {
   font-size: 16px;
-  font-style: italic;
   margin: 0;
-  font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Raleway', Arial, sans-serif;
 }
 
 #portfolio * {
@@ -378,9 +377,8 @@ header.masthead .intro-text .intro-heading {
 
 .portfolio-modal .modal-content p.item-intro {
   font-size: 16px;
-  font-style: italic;
   margin: 20px 0 30px;
-  font-family: 'Droid Serif', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-family: 'Raleway', Arial, sans-serif;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
@@ -390,6 +388,13 @@ header.masthead .intro-text .intro-heading {
 
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
+  border: solid 1px #e5e5e5;
+  border-radius: 5px;
+}
+
+.portfolio-modal .modal-content img:hover {
+  border-color: #ff6000;
+  border-width: 2px;
 }
 
 .portfolio-modal .modal-content button {

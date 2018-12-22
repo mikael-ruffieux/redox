@@ -26,7 +26,7 @@
     <link href="css/redox.css" rel="stylesheet">
 
 
-    <!-- FAVICON -->
+    <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="./assets/images/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="./assets/images/favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="./assets/images/favicon/apple-icon-72x72.png">
@@ -56,10 +56,13 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+              <a class="nav-link js-scroll-trigger" href="#about">à propos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#team">Team</a>
+              <a class="nav-link js-scroll-trigger" href="#services">nos Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#team">l'équipe</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#portfolio-header">Portfolio</a>
@@ -83,6 +86,21 @@
         </div>
       </div>
     </header>
+
+
+    <!-- About us -->
+
+    <section class="" id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <h2 class="section-heading text-uppercase">À propos</h2>
+            <hr class="light my-4">
+            <p class="text-faded mb-4">Redox Prod: une petite équipe qui voit les choses en grand ! Si "redox" est avant tout une réaction chimique, qui consiste en un échange d'électrons entre 2 molécules, nous voulons échanger avec vous afin de mieux comprendre les besoins de chacuns, et pouvoir créer du contenu ciblé et optimisé pour vos demandes. Notre but est d'offrir un service de qualité, et à petit prix.</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- Services -->
     <section class="bg-light" id="services">
@@ -132,7 +150,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Notre équipe</h2>
-            <h3 class="section-subheading text-muted">Redox Prod: une petite équipe qui voit les choses en grand ! Le label rassemble trois étudiants en informatique et communication, mais qui sont avant tout de grands passionnés dans leurs domaines respectifs. Notre but est d'offrir un service de qualité, et à petit prix. Redox Prod offre à votre organisation un service très complet et tout à fait compétent par rapport à notre statut.</h3>
+            <h3 class="section-subheading text-muted">Le label rassemble trois étudiants en informatique et communication, mais qui sont avant tout de grands passionnés dans leurs domaines respectifs.</h3>
           </div>
         </div>
         <div class="row">
@@ -140,23 +158,23 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/mika.jpg" alt="Mikael Ruffieux">
               <h4>Mikaël Ruffieux</h4>
-              <p class="text-muted">Vidéaste, graphiste et web-designer. Fondateur</p>
+              <p class="text-muted">Vidéaste, graphiste et web-designer</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
-                  <a href="#">
+                  <a href="https://www.instagram.com/redox_mikael/">
                     <i class="fab fa-instagram"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-youtube"></i>
+                  <a href="https://vimeo.com/user65773366">
+                    <i class="fab fa-vimeo-v"></i>
                   </a>
-                </li>
+                </li><!--
                 <li class="list-inline-item">
                   <a href="#">
                     <i class="fab fa-linkedin-in"></i>
                   </a>
-                </li>
+                </li>-->
               </ul>
             </div>
           </div>
@@ -164,7 +182,7 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/keran.jpg" alt="Keran Kocher">
               <h4>Keran Kocher</h4>
-              <p class="text-muted">Photographe, front & back end programmeur</p>
+              <p class="text-muted">Photographe, front & back end programmeur</p><!--
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
@@ -176,7 +194,7 @@
                     <i class="fab fa-linkedin-in"></i>
                   </a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
           <div class="col-sm-4">
@@ -184,7 +202,7 @@
               <img class="mx-auto rounded-circle" src="assets/images/team/blm.jpg" alt="Benoit Leo Maillard">
               <h4>Benoît Léo Maillard</h4>
               <p class="text-muted">Front & back end programmeur</p>
-              <ul class="list-inline social-buttons">
+              <!--<ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
                     <i class="fab fa-facebook-f"></i>
@@ -195,7 +213,7 @@
                     <i class="fab fa-linkedin-in"></i>
                   </a>
                 </li>
-              </ul>
+              </ul>-->
             </div>
           </div>
         </div>
@@ -257,7 +275,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contact</h2>
-            <h3 class="section-subheading text-muted">Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous via ce formulaire, ou directement par téléphone ou courriel.</h3>
+            <h3 class="section-subheading text-white">Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous via ce formulaire, ou directement par téléphone ou courriel.</h3>
           </div>
         </div>
         <div class="row">
@@ -306,20 +324,20 @@
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
+                <a href="https://vimeo.com/user65773366">
+                  <i class="fab fa-vimeo-v"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.facebook.com/RedoxProd/">
                   <i class="fab fa-facebook-f"></i>
                 </a>
-              </li>
+              </li><!--
               <li class="list-inline-item">
                 <a href="#">
                   <i class="fab fa-linkedin-in"></i>
                 </a>
-              </li>
+              </li>-->
             </ul>
           </div>
           <!--<div class="col-md-4">
