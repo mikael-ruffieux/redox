@@ -285,7 +285,7 @@
             </h3>
           </div>
         </div>
-        <div class="row">
+        <!--<div class="row">
           <div class="col-lg-12 text-center">
             
             <form id="contactForm" name="sentMessage" novalidate="novalidate" action="contact.php" method="post">
@@ -318,7 +318,7 @@
               </div>
             </form>
           </div>
-        </div>
+        </div>-->
       </div>
     </section>
 
