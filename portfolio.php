@@ -262,7 +262,7 @@
                         <a href="https://eebulle.ch/" target="_blank"><img class="img-fluid d-block mx-auto" src="assets/images/screenshots/eebulle.png" alt=""></a>
                         <p>Projet JS Tech : Keran Kocher et son frère, Noémien, sont les deux développeurs derrière le site de l’Église Évangélique de Bulle.</p>
                         <ul class="list-inline">
-                          <li>Date: Janvier 2016</li>
+                          <li>Date: Mai 2014</li>
                           <li>Client: <a href="https://eebulle.ch/" target="_blank">EEBulle</a></li>
                           <li>Catégorie: Web</li>
                         </ul>
