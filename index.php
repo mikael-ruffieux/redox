@@ -5,6 +5,7 @@
     <!-- META -->
     <meta charset="utf-8">
     <meta name="description" content="Redox PROD | Créations vidéos / Créations graphiques / Webdesign">
+    <meta name="keywords" content="graphisme, graphic, graphic designer, web, webcontent, webdesign, video, video production, videomaking, redox, redox prod, production video, production, multimedia, creation, createur, creator, fribourg, freiburg, vaud, lausanne, switzerland, suisse, schweiz">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#fff">

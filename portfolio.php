@@ -211,7 +211,7 @@
 		                    <h2 class="text-uppercase">Alpha Bulgaria</h2>
 		                    <p class="item-intro text-muted">Deux vidéos, et deux sites internet.</p>
                         <div class="embed-responsive embed-responsive-16by9">
-		                      <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=iw9aRkh6fGE" webkitallowfullscreen mozallowfullscreen allowfullscreen>  
+		                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iw9aRkh6fGE" webkitallowfullscreen mozallowfullscreen allowfullscreen>  
                           </iframe>
                         </div>
                         <br>
@@ -614,14 +614,14 @@
                           <p class="item-intro text-muted">Ensemble de 10 vidéos</p>
                           <p>« Les aventuriers de la vidéo » : c'est le nom du projet lancé par Groupe E, pour la promotion de leur département mobilité électrique. Pendant 3 semaines, <a href="https://www.taniabiland.com/" target="_blank">Tania Biland</a> et Mikaël Ruffieux ont parcouru la Suisse en long et en large, au volant d'une voiture électrique. Mission : contrôler toutes les bornes de recharge du réseau « Groupe E : MOVE » , et créer une dizaine de vidéo pour sa promotion.<br>En voici une petite sélection :</p>
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="https://www.youtube.com/watch?v=8RPvu0kHCwY" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="https://www.youtube.com/embed/8RPvu0kHCwY" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                           </div>
                           <br>
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="https://www.youtube.com/watch?v=zP4OF_D0SpU" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="https://www.youtube.com/embed/zP4OF_D0SpU?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                           </div>
                           <br>
-                          <p>Les autres vidéos du projet sont disponibles <a href="https://www.youtube.com/watch?v=cBvrqpSNWWU&list=PL09ex1pt07qjLtuex_ATJqwxv8Auo9KKt" target="_blank">ici</a>.
+                          <p>Les autres vidéos du projet sont disponibles <a href="https://www.youtube.com/embed/cBvrqpSNWWU&list=PL09ex1pt07qjLtuex_ATJqwxv8Auo9KKt" target="_blank">ici</a>.
                           <ul class="list-inline">
                             <li>Date: Août 2018</li>
                             <li>Client: <a href="https://www.groupe-e.ch/fr" target="_blank">Groupe E</a></li>
