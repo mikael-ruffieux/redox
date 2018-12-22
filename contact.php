@@ -1,6 +1,6 @@
 <?php
 $valid = false;
-$sent_to_email = "ruffieux.mikael@gmail.com";
+$sent_to_email = "postmaster@redox-prod.ch";
 $order_url = "index.php";
 
 if (isset($_POST["contact"])) {
