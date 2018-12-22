@@ -766,5 +766,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .client-logo {
   height: 100px;
   width: auto;
+  max-width: 200px;
 
 }
