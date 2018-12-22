@@ -4,7 +4,8 @@ $sent_to_email = "ruffieux.mikael@gmail.com";
 $order_url = "index.html";
 
 if (isset($_POST["contact"])) {
-  $text_fields = ["name", "subject"];
+  $text_fields = ["name"];
+  $numeric_fields = ["phone"]
 
   if(are_text_fields_valid($text_fields, $_POST)
     && are_numeric_fields_valid($numeric_fields, $_POST)
@@ -17,8 +18,8 @@ if (isset($_POST["contact"])) {
 if($valid) {
   $reply_to = clean($_POST["email"]);
   $name = clean($_POST["name"]);
-  $subject = clean($_POST["subject"]);
   $comment = clean($_POST["message"]);
+  $phone = clean($_POST["phone"]);
   $object = "redox-prod.ch - Message de ${name}";
 
   $content = <<<EOT
@@ -26,6 +27,8 @@ if($valid) {
 
 <b>$subject</b><br>
 $comment
+<br>
+Tel : $phone
 
 EOT;
 
