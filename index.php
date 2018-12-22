@@ -245,6 +245,9 @@
     <section class="py-5">
       <div class="container">
         <div class="row">
+          <p class="text-muted">Nos clients / partenaires</p>
+        </div>
+        <div class="row">
           <div class="col-md-3 col-sm-6 client-logo">
             <a href="http://www.bulle.ch/fr/jeunesse/" target="_blank">
               <img class="img-client mx-auto d-block" src="http://www.bulle.ch/fr/images/531058a4b17ba.png" alt="Service de la Jeunesse de la Ville de Bulle">
@@ -275,11 +278,15 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contact</h2>
-            <h3 class="section-subheading text-white">Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous via ce formulaire, ou directement par téléphone ou courriel.</h3>
+            <!--<h3 class="section-subheading text-white">Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous via ce formulaire, ou directement par téléphone ou courriel.</h3>-->
+            <h3 class="section-subheading text-white">
+              Notre formulaire de contact est actuellement en réparation.<br><br>En attendant, nous sommes atteignables à l'adresse mail suivante : <a href="mailto:ruffieux.mikael@gmail.com" target="_blank">ruffieux.mikael@gmail.com</a>
+            </h3>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-12">
+        <!--<div class="row">
+          <div class="col-lg-12 text-center">
+            
             <form id="contactForm" name="sentMessage" novalidate="novalidate" action="contact.php" method="post">
               <div class="row">
                 <div class="col-md-6">
@@ -310,7 +317,7 @@
               </div>
             </form>
           </div>
-        </div>
+        </div>-->
       </div>
     </section>
 
