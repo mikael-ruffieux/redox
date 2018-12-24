@@ -225,9 +225,9 @@
                           <img class="img-fluid d-block mx-auto" src="assets/images/screenshots/stiftung-mehrwert.jpg" alt="stiftung-mehrwert.ch">
                         </a>
 		                    <ul class="list-inline">
-		                    	<li>Date: Septembre 2016</li>
-		                    	<li>Client: <a href="http://alphabg.org/"  target="_blank">Alpha Bulgaria</a></li>
-		                    	<li>Catégorie: Vidéo / Web</li>
+		                    	<li>Date : Septembre 2016</li>
+		                    	<li>Client : <a href="http://alphabg.org/"  target="_blank">Alpha Bulgaria</a></li>
+		                    	<li>Catégorie : Vidéo / Web</li>
 		                  	</ul>
 		                  	<button class="btn btn-primary" data-dismiss="modal" type="button">
 		                    	<i class="fas fa-times"></i>
@@ -262,9 +262,9 @@
                         <a href="https://eebulle.ch/" target="_blank"><img class="img-fluid d-block mx-auto" src="assets/images/screenshots/eebulle.PNG" alt=""></a>
                         <p>Projet JS Tech : Keran Kocher et son frère, Noémien, sont les deux développeurs derrière le site de l’Église Évangélique de Bulle.</p>
                         <ul class="list-inline">
-                          <li>Date: Mai 2014</li>
-                          <li>Client: <a href="https://eebulle.ch/" target="_blank">EEBulle</a></li>
-                          <li>Catégorie: Web</li>
+                          <li>Date : Mai 2014</li>
+                          <li>Client : <a href="https://eebulle.ch/" target="_blank">EEBulle</a></li>
+                          <li>Catégorie : Web</li>
                         </ul>
                         <button class="btn btn-primary" data-dismiss="modal" type="button">
                           <i class="fas fa-times"></i>
@@ -302,9 +302,9 @@
                         <br>
 		                    <p>Vidéo rétrospective de l'année 2016, année de création de Redox Prod.</p>
 		                    <ul class="list-inline">
-		                    	<li>Date: Avril 2017</li>
-		                    	<li>Client: interne</li>
-		                    	<li>Catégorie: Vidéo</li>
+		                    	<li>Date : Avril 2017</li>
+		                    	<li>Client : interne</li>
+		                    	<li>Catégorie : Vidéo</li>
 		                  	</ul>
 		                  	<button class="btn btn-primary" data-dismiss="modal" type="button">
 		                    	<i class="fas fa-times"></i>
@@ -340,9 +340,9 @@
                   <br>
                   <p>Si quelque chose devait détrôner les plans en drone, ce sont les plans en drone en montagne. Cette vidéo est un petit clin d'oeil à la Dent de Broc, montagne surplombant le village d'origine de Mikaël.</p>
                   <ul class="list-inline">
-                    <li>Date: Juin 2017</li>
-                    <li>Client: interne</li>
-                    <li>Catégorie: Vidéo</li>
+                    <li>Date : Juin 2017</li>
+                    <li>Client : interne</li>
+                    <li>Catégorie : Vidéo</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
@@ -377,9 +377,9 @@
                   <br>
                   <p>Cette vidéo tient particulièrement à coeur à Mikaël. En effet, il s'agit d'une petite vidéo rétrospective du Sziget Festival à Budapest, un des plus grands festivals d'Europe.</p>
                   <ul class="list-inline">
-                    <li>Date: Août 2017</li>
-                    <li>Client: interne</li>
-                    <li>Catégorie: Vidéo</li>
+                    <li>Date : Août 2017</li>
+                    <li>Client : interne</li>
+                    <li>Catégorie : Vidéo</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
@@ -413,9 +413,9 @@
                   </a>
                   <p>Toujours sous le label JS-Tech, Keran et son frère gèrent en maîtres depuis plusieurs années le site internet de la Rencontre de Jeunesse chrétienne. Devant non seulement mettre en place un système de gestion de comptes et un shop, les 2 frères gèrent aussi l'application mobile de l'événement. Un immense projet, donc ils ne sont pas peu fiers.</p>
                   <ul class="list-inline">
-                    <li>Date: Mai 2018</li>
-                    <li>Client: <a href="https://rencontredejeunesse.ch" target="_blank">RJ</a></li>
-                    <li>Catégorie: Web</li>
+                    <li>Date : Mai 2018</li>
+                    <li>Client : <a href="https://rencontredejeunesse.ch" target="_blank">RJ</a></li>
+                    <li>Catégorie : Web</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
@@ -455,9 +455,9 @@
                   </a>
                   
                   <ul class="list-inline">
-                    <li>Date: Juillet 2018</li>
-                    <li>Client: <a href="http://www.centranim.ch/" target="_blank">Service de la Jeunesse de la Ville de Bulle</a></li>
-                    <li>Catégorie: Vidéo / Web</li>
+                    <li>Date : Juillet 2018</li>
+                    <li>Client : <a href="http://www.centranim.ch/" target="_blank">Service de la Jeunesse de la Ville de Bulle</a></li>
+                    <li>Catégorie : Vidéo / Web</li>
                   </ul>
                   <button class="btn btn-primary" data-dismiss="modal" type="button">
                     <i class="fas fa-times"></i>
@@ -492,9 +492,9 @@
                           <br>
                   				<p>Vidéo rétrospective de l'année 2017, une année entrecoupée du service militaire pour Keran et Mikaël.</p>
                   				<ul class="list-inline">
-				                    <li>Date: Juillet 2018</li>
-				                    <li>Client: interne</li>
-				                    <li>Catégorie: Vidéo</li>
+				                    <li>Date : Juillet 2018</li>
+				                    <li>Client : interne</li>
+				                    <li>Catégorie : Vidéo</li>
 					            </ul>
 					            <button class="btn btn-primary" data-dismiss="modal" type="button">
 					                <i class="fas fa-times"></i>
@@ -531,9 +531,9 @@
                           <br>
                   				<p>Projet Etucom : vidéo rétrospective de la Cité des Jeux, à Martigny.<br>La Cité des Jeux est l'événement annuel entièrement basé sur le thème du JEU. Cette manifestation ludique réunit des associations, des clubs de jeux, différentes ludothèques et des éditeurs de jeux pour deux jours placés sous le signe de la découverte et du fun.</p>
                   				<ul class="list-inline">
-				                    <li>Date: Novembre 2018</li>
-				                    <li>Client: interne (<a href="https://www.etucom.com/" target="_blank">Etucom</a>)</li>
-				                    <li>Catégorie: Vidéo</li>
+				                    <li>Date : Novembre 2018</li>
+				                    <li>Client : interne (<a href="https://www.etucom.com/" target="_blank">Etucom</a>)</li>
+				                    <li>Catégorie : Vidéo</li>
 					            </ul>
 					            <button class="btn btn-primary" data-dismiss="modal" type="button">
 					                <i class="fas fa-times"></i>
@@ -563,7 +563,7 @@
                   			<!-- Project Details -->
                   				<h2 class="text-uppercase">Gailland Bro's</h2>
                   				<p class="item-intro text-muted">Ensemble de 6 vidéos / Logo</p>
-                          <p>Projet Etucom : avant tout, il fallait donné une identité à ce duo, d'où la création d'un logo. Ensuite, afin de promouvoir l'événement, nous avons créer une suite de 6 vidéos, couvrant la préparation et le déroulement du défi. Le « 24H INDOOR TRACK PROJECT » est une tentative de record du monde en ultracyclisme, qui consiste à rouler 24h sur piste, en relais à 2.<br><br>Le logo:</p>
+                          <p>Projet Etucom : avant tout, il fallait donné une identité à ce duo, d'où la création d'un logo. Ensuite, afin de promouvoir l'événement, nous avons créer une suite de 6 vidéos, couvrant la préparation et le déroulement du défi. Le « 24H INDOOR TRACK PROJECT » est une tentative de record du monde en ultracyclisme, qui consiste à rouler 24h sur piste, en relais à 2.<br><br>Le logo :</p>
 
                           <img class="img-fluid d-block mx-auto" src="assets/images/creations/logo-gailland.png" alt="logo des Gailland Bro's">
                           <p>Présentation du projet :</p>
@@ -578,9 +578,9 @@
                           <br>
                           <p>Les autres vidéos du projet sont disponibles <a href="https://vimeo.com/user3754001" target="_blank">ici</a>.
                   				<ul class="list-inline">
-				                    <li>Date: Décembre 2018</li>
-				                    <li>Client: interne (<a href="https://www.etucom.com/" target="_blank">Etucom</a>)</li>
-				                    <li>Catégorie: Vidéo</li>
+				                    <li>Date : Décembre 2018</li>
+				                    <li>Client : interne (<a href="https://www.etucom.com/" target="_blank">Etucom</a>)</li>
+				                    <li>Catégorie : Vidéo</li>
 					            </ul>
 					            <button class="btn btn-primary" data-dismiss="modal" type="button">
 					                <i class="fas fa-times"></i>
@@ -623,9 +623,9 @@
                           <br>
                           <p>Les autres vidéos du projet sont disponibles <a href="https://www.youtube.com/embed/cBvrqpSNWWU&list=PL09ex1pt07qjLtuex_ATJqwxv8Auo9KKt" target="_blank">ici</a>.
                           <ul class="list-inline">
-                            <li>Date: Août 2018</li>
-                            <li>Client: <a href="https://www.groupe-e.ch/fr" target="_blank">Groupe E</a></li>
-                            <li>Catégorie: Vidéo</li>
+                            <li>Date : Août 2018</li>
+                            <li>Client : <a href="https://www.groupe-e.ch/fr" target="_blank">Groupe E</a></li>
+                            <li>Catégorie : Vidéo</li>
                       </ul>
                       <button class="btn btn-primary" data-dismiss="modal" type="button">
                           <i class="fas fa-times"></i>
@@ -662,9 +662,9 @@
                           <br>
                           <p>Montage mandaté par STARTUP MINISTRIES (SM) à l'occasion des 30 ans d'Ibeto, la fondation-mère. Les plans ont été tournés en interne, par SM, et Redox Prod. S'est occupé de toute la partie post-production, avec le montage, et l'insertion de tous les titres et sous-titres.</p>
                           <ul class="list-inline">
-                            <li>Date: Juillet 2018</li>
-                            <li>Client: <a href="https://www.startupministries.ch/" target="_blank">Startup Ministries</a></li>
-                            <li>Catégorie: Vidéo</li>
+                            <li>Date : Juillet 2018</li>
+                            <li>Client : <a href="https://www.startupministries.ch/" target="_blank">Startup Ministries</a></li>
+                            <li>Catégorie : Vidéo</li>
                       </ul>
                       <button class="btn btn-primary" data-dismiss="modal" type="button">
                           <i class="fas fa-times"></i>

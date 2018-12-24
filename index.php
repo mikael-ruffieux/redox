@@ -97,7 +97,7 @@
           <div class="col-lg-8 mx-auto text-center">
             <h2 class="section-heading text-uppercase">À propos</h2>
             <hr class="light my-4">
-            <p class="text-faded mb-4">Redox Prod: une petite équipe qui voit les choses en grand ! Si "redox" est avant tout une réaction chimique, qui consiste en un échange d'électrons entre 2 molécules, nous voulons échanger avec vous afin de mieux comprendre les besoins de chacuns, et pouvoir créer du contenu ciblé et optimisé pour vos demandes. Notre but est d'offrir un service de qualité, et à petit prix.</p>
+            <p class="text-faded mb-4">Redox Prod : une petite équipe qui voit les choses en grand ! Si "redox" est avant tout une réaction chimique, qui consiste en un échange d'électrons entre 2 molécules, nous voulons échanger avec vous afin de mieux comprendre les besoins de chacuns, et pouvoir créer du contenu ciblé et optimisé pour vos demandes. Notre but est d'offrir un service de qualité, et à petit prix.</p>
           </div>
         </div>
       </div>
@@ -162,12 +162,12 @@
               <p class="text-muted">Vidéaste, graphiste et web-designer</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
-                  <a href="https://www.instagram.com/redox_mikael/">
+                  <a href="https://www.instagram.com/redox_mikael/" target="_blank">
                     <i class="fab fa-instagram"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="https://vimeo.com/user65773366">
+                  <a href="https://vimeo.com/user65773366" target="_blank">
                     <i class="fab fa-vimeo-v"></i>
                   </a>
                 </li><!--
@@ -332,12 +332,12 @@
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="https://vimeo.com/user65773366">
+                <a href="https://vimeo.com/user65773366" target="_blank">
                   <i class="fab fa-vimeo-v"></i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="https://www.facebook.com/RedoxProd/">
+                <a href="https://www.facebook.com/RedoxProd/" target="_blank">
                   <i class="fab fa-facebook-f"></i>
                 </a>
               </li><!--
