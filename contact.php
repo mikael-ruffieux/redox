@@ -1,6 +1,6 @@
 <?php
 $valid = false;
-$sent_to_email = "postmaster@redox-prod.ch";
+$sent_to_email = "ruffieux.mikael@gmail.com";
 $order_url = "index.php";
 
 if (isset($_POST["contact"])) {
@@ -52,7 +52,7 @@ EOT;
 
 function send_email($object, $content, $reply_to, $sent_to_email) {
 
-  $headers	= "From: Redox Prod. <".$sent_to_email.">\r\n".
+  $headers	= "From: Redox Prod. <postmaster@redox-prod.ch>\r\n".
               "Reply-To: ".$reply_to."\r\n".
               "X-Mailer: PHP/".phpversion()."\r\n".
               "Content-type: text/html; charset=UTF-8\r\n";
