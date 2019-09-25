@@ -678,3 +678,40 @@
         </div>
     </div>
 
+    <!-- Modal 11 -->
+    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+              <div class="close-modal" data-dismiss="modal">
+                  <div class="lr">
+                    <div class="rl"></div>
+                </div>
+              </div>
+              <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 mx-auto">
+                      <div class="modal-body">
+                        <!-- Project Details -->
+                          <h2 class="text-uppercase">Bat sap chars 1</h2>
+                          <p class="item-intro text-muted">Réalisation vidéo</p>
+
+                          <div class="embed-responsive embed-responsive-16by9">
+                            <iframe src="//player.vimeo.com/video/307866187" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                          </div>
+                          <br>
+                          <p>Vidéo réalisée dans le cours de mon cours de répétition 2019, au sein de la Cellule de Communication du Bataillon sapeur de chars 1.</p>
+                          <ul class="list-inline">
+                            <li>Date : Juin 2019</li>
+                            <li>Catégorie : Vidéo</li>
+                      </ul>
+                      <button class="btn btn-primary" data-dismiss="modal" type="button">
+                          <i class="fas fa-times"></i>
+                          Fermer le projet
+                      </button>
+                      </div>
+                    </div>
+                </div>
+              </div>
+          </div>
+        </div>
+    </div>

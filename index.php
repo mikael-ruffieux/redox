@@ -1,6 +1,15 @@
 <html lang="fr">
 
   <head>
+  	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148739728-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-148739728-1');
+	</script>
     <title>Redox Prod | Créations vidéos / Créations graphiques / Webdesign</title>
     <!-- META -->
     <meta charset="utf-8">
