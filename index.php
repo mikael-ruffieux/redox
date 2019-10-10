@@ -160,15 +160,15 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Notre équipe</h2>
-            <h3 class="section-subheading text-muted">Le label rassemble trois étudiants en informatique et communication, mais qui sont avant tout de grands passionnés dans leurs domaines respectifs.</h3>
+            <h3 class="section-subheading text-muted">Nous sommes une team jeune et dynamique, ravie de faire votre connaissance!</h3>
           </div>
         </div>
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="assets/images/team/mika.jpeg" alt="Mikael Ruffieux">
+              <img class="mx-auto rounded-circle" src="assets/images/team/mika.jpg" alt="Mikael Ruffieux">
               <h4>Mikaël Ruffieux</h4>
-              <p class="text-muted">Vidéaste, graphiste et web-designer</p>
+              <p class="text-muted">Ingénieur HES des Médias</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="https://www.instagram.com/redox_mikael/" target="_blank">
@@ -192,7 +192,7 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/keran.jpg" alt="Keran Kocher">
               <h4>Keran Kocher</h4>
-              <p class="text-muted">Photographe, front & back end programmeur</p><!--
+              <p class="text-muted">Photographe, développeur EPF front & back end</p><!--
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
@@ -211,7 +211,7 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/blm.jpg" alt="Benoit Leo Maillard">
               <h4>Benoît Léo Maillard</h4>
-              <p class="text-muted">Front & back end programmeur</p>
+              <p class="text-muted">Développeur EPF front & back end</p>
               <!--<ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
@@ -253,27 +253,32 @@
 
     <!-- Clients -->
     <section class="py-5">
-      <div class="container">
-        <div class="row">
+      <div class="container p-0">
+        <div class="row mx-0">
           <p class="text-muted">Nos clients / partenaires</p>
         </div>
         <div class="row">
-          <div class="col-md-3 col-sm-6 client-logo">
-            <a href="http://www.bulle.ch/fr/jeunesse/" target="_blank">
-              <img class="img-client mx-auto d-block" src="http://www.bulle.ch/fr/images/531058a4b17ba.png" alt="Service de la Jeunesse de la Ville de Bulle">
+          <div class="col-md-2 col-sm-6 client-logo">
+            <a href="https://www.mueller-deisswil.ch/" target="_blank">
+              <img class="img-client mx-auto d-block" src="assets/images/clients/mueli-deisswil.png" alt="Müller Deisswil">
             </a>
           </div>
-          <div class="col-md-3 col-sm-6 client-logo">
+          <div class="col-md-2 col-sm-6 client-logo">
+            <a href="https://jeunesse-bulle.ch/" target="_blank">
+              <img style="background-color:#e8453b;" class="img-client mx-auto d-block" src="https://jeunesse-bulle.ch/wp-content/uploads/2019/04/logo_service_de_la_jeunesse_footer-1.png" alt="Service de la Jeunesse de la Ville de Bulle">
+            </a>
+          </div>
+          <div class="col-md-2 col-sm-6 client-logo">
             <a href="https://www.startupministries.ch/" target="_blank">
               <img class="img-client mx-auto d-block" src="https://static.wixstatic.com/media/7070a1_96caf8fad72a4dd28d24b4550fedb7ee~mv2.png/v1/fill/w_205,h_118,al_c,q_80,usm_0.66_1.00_0.01/7070a1_96caf8fad72a4dd28d24b4550fedb7ee~mv2.webp" alt="Start up Ministries">
             </a>
           </div>
-          <div class="col-md-3 col-sm-6 client-logo">
+          <div class="col-md-2 col-sm-6 client-logo">
             <a href="http://www.stiftung-mehrwert.ch/" target="_blank">
               <img class="img-client mx-auto d-block" src="http://www.stiftung-mehrwert.ch/assets/images/layout/logo.png" alt="Stiftung Mehrwert">
             </a>
           </div>
-          <div class="col-md-3 col-sm-6 client-logo">
+          <div class="col-md-2 col-sm-6 client-logo">
             <a href="http://alphabg.org/" target="_blank">
               <img class="img-client mx-auto d-block" src="https://static1.squarespace.com/static/56d056fb40261db4d8f2f5af/t/5ba258714d7a9c88ca63cc33/1537366334614/logo.jpg" alt="Alpha Bulgaria">
             </a>
@@ -290,7 +295,9 @@
             <h2 class="section-heading text-uppercase">Contact</h2>
             <!--<h3 class="section-subheading text-white">Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous via ce formulaire, ou directement par téléphone ou courriel.</h3>-->
             <h3 class="section-subheading text-white">
-              Notre formulaire de contact est actuellement en réparation.<br><br>En attendant, nous sommes atteignables à l'adresse mail suivante : <a href="mailto:ruffieux.mikael@gmail.com" target="_blank">ruffieux.mikael@gmail.com</a>
+              Notre formulaire de contact est actuellement en réparation.
+              <br><br>
+              En attendant, nous sommes atteignables à l'adresse mail suivante : <a href="mailto:ruffieux.mikael@gmail.com" target="_blank">ruffieux.mikael[at]gmail.com</a>
             </h3>
           </div>
         </div>
@@ -349,24 +356,9 @@
                 <a href="https://www.facebook.com/RedoxProd/" target="_blank">
                   <i class="fab fa-facebook-f"></i>
                 </a>
-              </li><!--
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>-->
+              </li><
             </ul>
           </div>
-          <!--<div class="col-md-4">
-            <ul class="list-inline quicklinks">
-              <li class="list-inline-item">
-                <a href="#">Privacy Policy</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">Terms of Use</a>
-              </li>
-            </ul>
-          </div>-->
         </div>
       </div>
     </footer>
