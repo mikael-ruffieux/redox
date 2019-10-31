@@ -297,7 +297,7 @@
             <h3 class="section-subheading text-white">
               Notre formulaire de contact est actuellement en réparation.
               <br><br>
-              En attendant, nous sommes atteignables à l'adresse mail suivante : <a href="mailto:ruffieux.mikael@gmail.com" target="_blank">ruffieux.mikael[at]gmail.com</a>
+              En attendant, nous sommes atteignables à l'adresse mail suivante : <a href="mailto:mikael@redox-prod.ch" target="_blank">mikael[at]redox-prod.ch</a>
             </h3>
           </div>
         </div>
@@ -343,19 +343,15 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Copyright &copy; Redox Prod 2018</span>
+            <span class="copyright">Copyright &copy; Redox Prod <?php echo date('Y');?></span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
-                <a href="https://vimeo.com/user65773366" target="_blank">
-                  <i class="fab fa-vimeo-v"></i>
-                </a>
+                <a class="fab fa-vimeo-v" href="https://vimeo.com/user65773366" target="_blank"></a>
               </li>
               <li class="list-inline-item">
-                <a href="https://www.facebook.com/RedoxProd/" target="_blank">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
+                <a class="fab fa-facebook-f" href="https://www.facebook.com/RedoxProd/" target="_blank"></a>
               </li><
             </ul>
           </div>
@@ -392,7 +388,5 @@
           a.appendChild(r);
       })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
   </script>
-
   </body>
-
 </html>
