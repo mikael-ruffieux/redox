@@ -201,11 +201,6 @@
               <p class="text-muted">Développeur EPF front & back end</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
                   <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/beno%C3%AEt-l%C3%A9o-maillard-441331134/"></a>
                 </li>
               </ul>
