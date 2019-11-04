@@ -88,7 +88,7 @@
     <!-- Header -->
     <header class="masthead">
       <div class="container">
-      	<img class="logo" src="assets/images/home/logo_trans.png" alt="redox logo">
+      	<img class="logo" src="assets/images/home/logo-redox.svg" alt="Logo Redox Prod">
         <div class="intro-text">
           <div class="intro-heading text-uppercase">Redox Prod</div>
           <div class="intro-lead-in text-uppercase">Communication digitale</div>
