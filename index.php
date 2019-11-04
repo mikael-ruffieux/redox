@@ -10,10 +10,10 @@
 
 	  gtag('config', 'UA-148739728-1');
 	</script>
-    <title>Redox Prod | Créations vidéos / Créations graphiques / Webdesign</title>
+    <title>Redox Prod | Communication digitale / Création de contenu vidéo</title>
     <!-- META -->
     <meta charset="utf-8">
-    <meta name="description" content="Redox PROD | Créations vidéos / Créations graphiques / Webdesign">
+    <meta name="description" content="Redox Prod | Communication digitale / Création de contenu vidéo">
     <meta name="keywords" content="graphisme, graphic, graphic designer, web, webcontent, webdesign, video, video production, videomaking, redox, redox prod, production video, production, multimedia, creation, createur, creator, fribourg, freiburg, vaud, lausanne, switzerland, suisse, schweiz">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
@@ -69,16 +69,16 @@
               <a class="nav-link js-scroll-trigger" href="#about">à propos</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#services">nos Services</a>
+              <a class="nav-link js-scroll-trigger" href="#services">nos services</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#team">l'équipe</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#portfolio-header">Portfolio</a>
+              <a class="nav-link js-scroll-trigger" href="#portfolio-header">portfolio</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+              <a class="nav-link js-scroll-trigger" href="#contact">contact</a>
             </li>
           </ul>
         </div>
@@ -90,8 +90,8 @@
       <div class="container">
       	<img class="logo" src="assets/images/home/logo_trans.png" alt="redox logo">
         <div class="intro-text">
-          <div class="intro-heading text-uppercase">REDOX PROD</div>
-          <div class="intro-lead-in">COMMUNICATION & DESIGN</div>
+          <div class="intro-heading text-uppercase">Redox Prod</div>
+          <div class="intro-lead-in">Communication digitale</div>
           <!--<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>-->
         </div>
       </div>
@@ -171,20 +171,14 @@
               <p class="text-muted">Ingénieur HES des Médias</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
-                  <a href="https://www.instagram.com/redox_mikael/" target="_blank">
-                    <i class="fab fa-instagram"></i>
-                  </a>
+                  <a class="fab fa-instagram" href="https://www.instagram.com/redox_mikael/" target="_blank"></a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="https://vimeo.com/user65773366" target="_blank">
-                    <i class="fab fa-vimeo-v"></i>
-                  </a>
-                </li><!--
+                  <a class="fab fa-vimeo-v" href="https://vimeo.com/user65773366" target="_blank"></a>
+                </li>
                 <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-linkedin-in"></i>
-                  </a>
-                </li>-->
+                  <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/mikael-ruffieux/" target="_blank"></a>
+                </li>
               </ul>
             </div>
           </div>
@@ -192,19 +186,12 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/keran.jpg" alt="Keran Kocher">
               <h4>Keran Kocher</h4>
-              <p class="text-muted">Photographe, développeur EPF front & back end</p><!--
+              <p class="text-muted">Photographe, développeur EPF front & back end</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
+                  <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/keran-k-5890b188/"></a>
                 </li>
-                <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-linkedin-in"></i>
-                  </a>
-                </li>
-              </ul>-->
+              </ul>
             </div>
           </div>
           <div class="col-sm-4">
@@ -212,18 +199,16 @@
               <img class="mx-auto rounded-circle" src="assets/images/team/blm.jpg" alt="Benoit Leo Maillard">
               <h4>Benoît Léo Maillard</h4>
               <p class="text-muted">Développeur EPF front & back end</p>
-              <!--<ul class="list-inline social-buttons">
+              <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="#">
                     <i class="fab fa-facebook-f"></i>
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-linkedin-in"></i>
-                  </a>
+                  <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/beno%C3%AEt-l%C3%A9o-maillard-441331134/"></a>
                 </li>
-              </ul>-->
+              </ul>
             </div>
           </div>
         </div>
@@ -293,11 +278,9 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contact</h2>
-            <!--<h3 class="section-subheading text-white">Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous via ce formulaire, ou directement par téléphone ou courriel.</h3>-->
             <h3 class="section-subheading text-white">
-              Notre formulaire de contact est actuellement en réparation.
-              <br><br>
-              En attendant, nous sommes atteignables à l'adresse mail suivante : <a href="mailto:mikael@redox-prod.ch" target="_blank">mikael[at]redox-prod.ch</a>
+              Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous par courriel : <br />
+              <br/><a href="mailto:mikael@redox-prod.ch" target="_blank">mikael[at]redox-prod.ch</a>
             </h3>
           </div>
         </div>
@@ -352,7 +335,7 @@
               </li>
               <li class="list-inline-item">
                 <a class="fab fa-facebook-f" href="https://www.facebook.com/RedoxProd/" target="_blank"></a>
-              </li><
+              </li>
             </ul>
           </div>
         </div>
