@@ -91,7 +91,7 @@
       	<img class="logo" src="assets/images/home/logo_trans.png" alt="redox logo">
         <div class="intro-text">
           <div class="intro-heading text-uppercase">Redox Prod</div>
-          <div class="intro-lead-in">Communication digitale</div>
+          <div class="intro-lead-in text-uppercase">Communication digitale</div>
           <!--<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>-->
         </div>
       </div>
