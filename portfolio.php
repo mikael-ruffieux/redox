@@ -211,7 +211,7 @@
 		                    <h2 class="text-uppercase">Alpha Bulgaria</h2>
 		                    <p class="item-intro text-muted">Deux vidéos, et deux sites internet.</p>
                         <div class="embed-responsive embed-responsive-16by9">
-		                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iw9aRkh6fGE" webkitallowfullscreen mozallowfullscreen allowfullscreen>  
+		                      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iw9aRkh6fGE" allow="fullscreen">  
                           </iframe>
                         </div>
                         <br>
@@ -297,7 +297,7 @@
 		                    <h2 class="text-uppercase"> Showreel 2016</h2>
 		                    <p class="item-intro text-muted">Vidéo de présentation de Redox Prod.</p>
 		                    <div class="embed-responsive embed-responsive-16by9">
-		                      <iframe src="//player.vimeo.com/video/214376110" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		                      <iframe src="//player.vimeo.com/video/214376110" allow="fullscreen"></iframe>
                         </div>
                         <br>
 		                    <p>Vidéo rétrospective de l'année 2016, année de création de Redox Prod.</p>
@@ -335,7 +335,7 @@
                   <h2 class="text-uppercase">La Dent de Broc</h2>
                   <p class="item-intro text-muted">Vidéo</p>
                   <div class="embed-responsive embed-responsive-16by9">
-                    <iframe src="//player.vimeo.com/video/220195324" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    <iframe src="//player.vimeo.com/video/220195324" allow="fullscreen"></iframe>
                   </div>
                   <br>
                   <p>Si quelque chose devait détrôner les plans en drone, ce sont les plans en drone en montagne. Cette vidéo est un petit clin d'oeil à la Dent de Broc, montagne surplombant le village d'origine de Mikaël.</p>
@@ -372,7 +372,7 @@
                   <h2 class="text-uppercase">Sziget Festival 2017</h2>
                   <p class="item-intro text-muted">Vidéo</p>
                   <div class="embed-responsive embed-responsive-16by9">
-                    <iframe src="//player.vimeo.com/video/247694127" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    <iframe src="//player.vimeo.com/video/247694127" allow="fullscreen"></iframe>
                   </div>
                   <br>
                   <p>Cette vidéo tient particulièrement à coeur à Mikaël. En effet, il s'agit d'une petite vidéo rétrospective du Sziget Festival à Budapest, un des plus grands festivals d'Europe.</p>
@@ -446,7 +446,7 @@
                   <p class="item-intro text-muted">Vidéo et site web</p>
                   <p>Projet mandaté par le service de la jeunesse de la ville de Bulle, pour la promotion de la « Bulle Box », un carnet de bons offrants différents rabais chez les commerçants bullois, afin de promouvoir le commerce local. La package du projet comporte la vidéo promotionnelle, ainsi que le formulaire de commande de la Box.</p>
                   <div class="embed-responsive embed-responsive-16by9">
-                    <iframe src="//player.vimeo.com/video/266120847" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    <iframe src="//player.vimeo.com/video/266120847" allow="fullscreen"></iframe>
                   </div>
                   <br>
                   <p>Et la page web :</p>
@@ -487,7 +487,7 @@
                   				<h2 class="text-uppercase">Showreel 2017</h2>
                   				<p class="item-intro text-muted">Vidéo</p>
                   				<div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="//player.vimeo.com/video/267380360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="//player.vimeo.com/video/267380360" allow="fullscreen"></iframe>
                           </div>
                           <br>
                   				<p>Vidéo rétrospective de l'année 2017, une année entrecoupée du service militaire pour Keran et Mikaël.</p>
@@ -526,7 +526,7 @@
                   				<h2 class="text-uppercase">Cité des Jeux</h2>
                   				<p class="item-intro text-muted">Vidéo</p>
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="//player.vimeo.com/video/306132048" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="//player.vimeo.com/video/306132048" allow="fullscreen"></iframe>
                           </div>
                           <br>
                   				<p>Projet Etucom : vidéo rétrospective de la Cité des Jeux, à Martigny.<br>La Cité des Jeux est l'événement annuel entièrement basé sur le thème du JEU. Cette manifestation ludique réunit des associations, des clubs de jeux, différentes ludothèques et des éditeurs de jeux pour deux jours placés sous le signe de la découverte et du fun.</p>
@@ -568,12 +568,12 @@
                           <img class="img-fluid d-block mx-auto" src="assets/images/creations/logo-gailland.png" alt="logo des Gailland Bro's">
                           <p>Présentation du projet :</p>
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="//player.vimeo.com/video/305700479" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="//player.vimeo.com/video/305700479" allow="fullscreen"></iframe>
                           </div>
                           <br>
                           <p>Et la vidéo rétrospective :</p>
                   				<div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="//player.vimeo.com/video/307270760" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="//player.vimeo.com/video/307270760" allow="fullscreen"></iframe>
                           </div>
                           <br>
                           <p>Les autres vidéos du projet sont disponibles <a href="https://vimeo.com/user3754001" target="_blank">ici</a>.
@@ -614,11 +614,11 @@
                           <p class="item-intro text-muted">Ensemble de 10 vidéos</p>
                           <p>« Les aventuriers de la vidéo » : c'est le nom du projet lancé par Groupe E, pour la promotion de leur département mobilité électrique. Pendant 3 semaines, <a href="https://www.taniabiland.com/" target="_blank">Tania Biland</a> et Mikaël Ruffieux ont parcouru la Suisse en long et en large, au volant d'une voiture électrique. Mission : contrôler toutes les bornes de recharge du réseau « Groupe E : MOVE » , et créer une dizaine de vidéo pour sa promotion.<br>En voici une petite sélection :</p>
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="https://www.youtube.com/embed/8RPvu0kHCwY" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="https://www.youtube.com/embed/8RPvu0kHCwY" allow="fullscreen"></iframe>
                           </div>
                           <br>
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="https://www.youtube.com/embed/zP4OF_D0SpU?rel=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="https://www.youtube.com/embed/zP4OF_D0SpU?rel=0" allow="fullscreen"></iframe>
                           </div>
                           <br>
                           <p>Les autres vidéos du projet sont disponibles <a href="https://www.youtube.com/embed/cBvrqpSNWWU&list=PL09ex1pt07qjLtuex_ATJqwxv8Auo9KKt" target="_blank">ici</a>.
@@ -657,7 +657,7 @@
                           <p class="item-intro text-muted">Montage vidéo</p>
 
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="//player.vimeo.com/video/307866187" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="//player.vimeo.com/video/307866187" allow="fullscreen"></iframe>
                           </div>
                           <br>
                           <p>Montage mandaté par STARTUP MINISTRIES (SM) à l'occasion des 30 ans d'Ibeto, la fondation-mère. Les plans ont été tournés en interne, par SM, et Redox Prod. S'est occupé de toute la partie post-production, avec le montage, et l'insertion de tous les titres et sous-titres.</p>
@@ -679,7 +679,7 @@
     </div>
 
     <!-- Modal 11 -->
-    <div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="portfolio-modal modal fade" id="portfolioModal11" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-dialog">
           <div class="modal-content">
               <div class="close-modal" data-dismiss="modal">
@@ -696,7 +696,7 @@
                           <p class="item-intro text-muted">Réalisation vidéo</p>
 
                           <div class="embed-responsive embed-responsive-16by9">
-                            <iframe src="//player.vimeo.com/video/307866187" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                            <iframe src="//player.vimeo.com/video/307866187" allow="fullscreen"></iframe>
                           </div>
                           <br>
                           <p>Vidéo réalisée dans le cours de mon cours de répétition 2019, au sein de la Cellule de Communication du Bataillon sapeur de chars 1.</p>

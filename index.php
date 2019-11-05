@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 
   <head>
@@ -61,7 +62,7 @@
         <a class="navbar-brand js-scroll-trigger" href="#page-top">Redox Prod</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
-          <i class="fas fa-bars"></i>
+            <i class="fas fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
@@ -233,38 +234,27 @@
 
     <!-- Clients -->
     <section class="py-5">
-      <div class="container p-0">
-        <div class="row mx-0">
-          <p class="text-muted">Nos clients / partenaires</p>
+        <div class="container p-0">
+            <h3 class="text-muted mx-3">Nos clients / partenaires</h3>
+
+            <div id="clientsWrapper" class="mx-3">
+                <a class="client-logo" href="https://www.mueller-deisswil.ch/" target="_blank">
+                    <img src="assets/images/clients/mueli-deisswil.png" alt="Müller Deisswil">
+                </a>
+                <a class="client-logo" href="https://jeunesse-bulle.ch/" target="_blank">
+                    <img id="logoVilleDeBulle" src="https://jeunesse-bulle.ch/wp-content/uploads/2019/04/logo_service_de_la_jeunesse_footer-1.png" alt="Service de la Jeunesse de la Ville de Bulle">
+                </a>
+                <a class="client-logo" href="https://www.startupministries.ch/" target="_blank">
+                    <img src="https://static.wixstatic.com/media/7070a1_96caf8fad72a4dd28d24b4550fedb7ee~mv2.png/v1/fill/w_205,h_118,al_c,q_80,usm_0.66_1.00_0.01/7070a1_96caf8fad72a4dd28d24b4550fedb7ee~mv2.webp" alt="Start up Ministries">
+                </a>
+                <a class="client-logo" href="http://www.stiftung-mehrwert.ch/" target="_blank">
+                    <img  id="logoStiftung" src="http://www.stiftung-mehrwert.ch/assets/images/layout/logo.png" alt="Stiftung Mehrwert">
+                </a>
+                <a class="client-logo" href="http://alphabg.org/" target="_blank">
+                    <img src="https://static1.squarespace.com/static/56d056fb40261db4d8f2f5af/t/5ba258714d7a9c88ca63cc33/1537366334614/logo.jpg" alt="Alpha Bulgaria">
+                </a>
+            </div>
         </div>
-        <div class="row">
-          <div class="col-md-2 col-sm-6 client-logo">
-            <a href="https://www.mueller-deisswil.ch/" target="_blank">
-              <img class="img-client mx-auto d-block" src="assets/images/clients/mueli-deisswil.png" alt="Müller Deisswil">
-            </a>
-          </div>
-          <div class="col-md-2 col-sm-6 client-logo">
-            <a href="https://jeunesse-bulle.ch/" target="_blank">
-              <img style="background-color:#e8453b;" class="img-client mx-auto d-block" src="https://jeunesse-bulle.ch/wp-content/uploads/2019/04/logo_service_de_la_jeunesse_footer-1.png" alt="Service de la Jeunesse de la Ville de Bulle">
-            </a>
-          </div>
-          <div class="col-md-2 col-sm-6 client-logo">
-            <a href="https://www.startupministries.ch/" target="_blank">
-              <img class="img-client mx-auto d-block" src="https://static.wixstatic.com/media/7070a1_96caf8fad72a4dd28d24b4550fedb7ee~mv2.png/v1/fill/w_205,h_118,al_c,q_80,usm_0.66_1.00_0.01/7070a1_96caf8fad72a4dd28d24b4550fedb7ee~mv2.webp" alt="Start up Ministries">
-            </a>
-          </div>
-          <div class="col-md-2 col-sm-6 client-logo">
-            <a href="http://www.stiftung-mehrwert.ch/" target="_blank">
-              <img class="img-client mx-auto d-block" src="http://www.stiftung-mehrwert.ch/assets/images/layout/logo.png" alt="Stiftung Mehrwert">
-            </a>
-          </div>
-          <div class="col-md-2 col-sm-6 client-logo">
-            <a href="http://alphabg.org/" target="_blank">
-              <img class="img-client mx-auto d-block" src="https://static1.squarespace.com/static/56d056fb40261db4d8f2f5af/t/5ba258714d7a9c88ca63cc33/1537366334614/logo.jpg" alt="Alpha Bulgaria">
-            </a>
-          </div>
-        </div>
-      </div>
     </section>
 
     <!-- Contact -->
