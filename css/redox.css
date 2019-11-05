@@ -58,6 +58,11 @@ section h3.section-subheading {
   }
 }
 
+.d-flex {
+  display: flex;
+}
+
+
 .btn {
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
@@ -97,10 +102,34 @@ section h3.section-subheading {
   width:100%;
 }
 
-.img-client {
-  max-height: 100%;
-  max-width: 100%;
-  padding-top:10px;
+#clientsWrapper {
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#clientsWrapper img {
+	align-items: center;
+	max-height: 80px;
+	max-width: 200px;
+	margin: 5px;
+}
+@media (max-width: 991px) {
+	#clientsWrapper img {
+		align-items: center;
+		max-height: 50px;
+		max-width: 100px;
+		margin: 10px;
+	}
+}
+#logoVilleDeBulle {
+	background-color: #e8453b;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+#logoStiftung {
+	padding-top: 23px;
 }
 
 img::-moz-selection {
@@ -257,6 +286,10 @@ header.masthead .intro-text .intro-heading {
   background-position: left;
   background-size: cover;
   height: 30vh;
+}
+
+iframe {
+  border: none;
 }
 
 .latest-work iframe {
@@ -765,11 +798,4 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .fa-inverse {
   color: #ff6000;
-}
-
-.client-logo {
-  height: 100px;
-  width: auto;
-  max-width: 200px;
-
 }
