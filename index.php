@@ -12,7 +12,7 @@
       <div class="container">
       	<img class="logo" src="assets/images/home/logo-redox.svg" alt="Logo Redox Prod">
         <div class="intro-text">
-          <div class="intro-heading text-uppercase">Redox Prod</div>
+          <h1 class="intro-heading text-uppercase">Redox Prod</h1>
           <div class="intro-lead-in text-uppercase">Communication digitale</div>
           <!--<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Tell Me More</a>-->
         </div>

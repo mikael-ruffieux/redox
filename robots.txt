@@ -1,0 +1,3 @@
+User-Agent: *
+Dissallow:
+Sitemap: http://www.redox-prod.ch/sitemap.xml
