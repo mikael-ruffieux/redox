@@ -799,3 +799,54 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .fa-inverse {
   color: #ff6000;
 }
+
+
+/* nos-travaux.php */
+#ourWorkHeader {
+	text-align: center;
+    color: white;
+	height: 100vh;
+	background-image: url("../assets/images/layout/iceland_3.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+	background-size: cover;
+}
+
+.iframeWrapper {
+	/* overflow: hidden;*/
+	padding-top: 56.25%;
+	position: relative;
+}
+.iframeWrapper iframe {
+	border: 0;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+@media (max-width: 768px) {
+	.iframeWrapper {
+		display: none;
+	}
+}
+
+#ourWorkTitle {
+	position: absolute;
+	z-index: 1000;
+	width: 100%;
+    top: 40vh;
+	text-align: center;
+}
+
+#ourWorkTitle h1 {
+	margin: auto;
+    border: solid white 3px;
+    color: white;
+    font-size: 3rem;
+	width: 450px;
+	max-width: 80%;
+    padding: 30px;
+    text-transform: uppercase;
+}
