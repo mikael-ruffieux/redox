@@ -187,7 +187,7 @@
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/keran.jpg" alt="Keran Kocher">
               <h4>Keran Kocher</h4>
-              <p class="text-muted">Photographe, développeur EPF front & back end</p>
+              <p class="text-muted">Photographe, développeur EPF front & backend</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/keran-k-5890b188/"></a>
