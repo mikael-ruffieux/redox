@@ -184,10 +184,8 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contact</h2>
-            <h3 class="section-subheading text-white">
-              Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous par courriel : <br />
-              <br/><a href="mailto:mikael@redox-prod.ch" target="_blank" rel="noopener noreferrer">mikael[at]redox-prod.ch</a>
-            </h3>
+            <p class="section-subheading text-white">Pour plus d'informations, pour un devis ou tout simplement pour dire bonjour, contactez-nous par courriel :</p>
+            <a href="mailto:mikael@redox-prod.ch" target="_blank" rel="noopener noreferrer">mikael[arobase]redox-prod.ch</a>
           </div>
         </div>
         <!--<div class="row">
