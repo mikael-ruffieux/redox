@@ -82,7 +82,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Notre équipe</h2>
-            <h3 class="section-subheading text-muted">Nous sommes une team jeune et dynamique, ravie de faire votre connaissance!</h3>
+            <p class="section-subheading text-muted">Nous sommes une team jeune et dynamique, ravie de faire votre connaissance!</p>
           </div>
         </div>
         <div class="row">

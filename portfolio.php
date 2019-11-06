@@ -303,7 +303,7 @@
                     <!-- Project Details -->
                         <h2 class="text-uppercase">Église Évangélique de Bulle</h2>
                         <p class="item-intro text-muted">Site internet</p>
-                        <a href="https://eebulle.ch/" target="_blank"><img class="img-fluid d-block mx-auto" src="assets/images/screenshots/eebulle.PNG" alt="eebulle.ch"></a>
+                        <a href="https://eebulle.ch/" target="_blank"><img class="img-fluid d-block mx-auto" src="assets/images/screenshots/eebulle.jpg" alt="eebulle.ch"></a>
                         <p>Projet JS Tech : Keran Kocher et son frère, Noémien, sont les deux développeurs derrière le site de l’Église Évangélique de Bulle.</p>
                         <ul class="list-inline">
                           <li>Date : Mai 2014</li>
@@ -453,7 +453,7 @@
 				<h2 class="text-uppercase">Rencontre de Jeunesse chrétienne</h2>
 				<p class="item-intro text-muted">Site web</p>
 				<a href="https://rencontredejeunesse.ch" target="_blank">
-				<img class="img-fluid d-block mx-auto" src="assets/images/screenshots/rj.PNG" alt="rencontredejeunesse.ch">
+				<img class="img-fluid d-block mx-auto" src="assets/images/screenshots/rj.jpg" alt="rencontredejeunesse.ch">
 				</a>
 				<p>Toujours sous le label JS-Tech, Keran et son frère gèrent en maîtres depuis plusieurs années le site internet de la Rencontre de Jeunesse chrétienne. Devant non seulement mettre en place un système de gestion de comptes et un shop, les 2 frères gèrent aussi l'application mobile de l'événement. Un immense projet, donc ils ne sont pas peu fiers.</p>
 				<ul class="list-inline">
@@ -735,18 +735,19 @@
 						<p class="item-intro text-muted">Réalisation vidéo</p>
 
 						<div class="embed-responsive embed-responsive-16by9">
-						<iframe src="//player.vimeo.com/video/307866187" allow="fullscreen"></iframe>
+							<iframe src="//player.vimeo.com/video/307866187" allow="fullscreen"></iframe>
 						</div>
 						<br>
 						<p>Vidéo réalisée dans le cours de mon cours de répétition 2019, au sein de la Cellule de Communication du Bataillon sapeur de chars 1.</p>
 						<ul class="list-inline">
-						<li>Date : Juin 2019</li>
-						<li>Catégorie : Vidéo</li>
-					</ul>
-					<button class="btn btn-primary" data-dismiss="modal" type="button">
-						<i class="fas fa-times"></i>
-						Fermer le projet
-					</button>
+							<li>Date : Juin 2019</li>
+							<li>Client : Bat Sap Chars 1</li>
+							<li>Catégorie : Vidéo</li>
+						</ul>
+						<button class="btn btn-primary" data-dismiss="modal" type="button">
+							<i class="fas fa-times"></i>
+							Fermer le projet
+						</button>
 					</div>
 				</div>
 			</div>
