@@ -28,7 +28,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="post-preview">
-          <a href="posts.php">
+          <a href="/blog/posts/speak-up">
             <h2 class="post-title">
               SpeakUp, la nouvelle plateforme de diffusion de Podcasts
             </h2>
@@ -37,12 +37,12 @@
             </h3>
           </a>
           <p class="post-meta">Posté par
-            <a href="about.php">Mikaël</a>
+            <a href="/blog/about">Mikaël</a>
             le 1 décembre 2019</p>
         </div>
         <hr>
         <div class="post-preview">
-          <a href="posts.php">
+          <a href="/blog/posts/speak-up">
             <h2 class="post-title">
               Créer un blog ? Mais je n'ai rien à dire !
             </h2>
@@ -51,13 +51,13 @@
             </h3>
           </a>
           <p class="post-meta">Posté par
-            <a href="about.php">Mikaël</a>
+            <a href="/blog/about">Mikaël</a>
             le 11 novembre 2019</p>
         </div>
         <hr>
         <!-- Pager -->
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="posts.php">Tous les articles &rarr;</a>
+          <a class="btn btn-primary float-right" href="all-posts">Tous les articles &rarr;</a>
         </div>
       </div>
     </div>
