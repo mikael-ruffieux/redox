@@ -9,17 +9,17 @@
   <?php include '../layout/navbar.html'; ?>
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('/blog/img/post-bg.jpg')">
+  <header class="masthead" style="background-image: url('/blog/img/speakup.png')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
-            <h1>Man must explore, and this is exploration at its greatest</h1>
-            <h2 class="subheading">Problems look mighty small from 150 miles up</h2>
-            <span class="meta">Posted by
-              <a href="#">Start Bootstrap</a>
-              on August 24, 2019</span>
+            <h1>SpeakUp, la nouvelle plateforme de diffusion de Podcasts</h1>
+            <h2 class="subheading">Le prochain hit ou prochain flop ? </h2>
+            <span class="meta">Posté par
+              <a href="/blog/about.php">Mikaël</a>
+              le 1 décembre 2019</span>
           </div>
         </div>
       </div>
@@ -73,10 +73,19 @@
   </article>
 
   <hr>
+  <div class="container" id="other-articles">
+    <h3>D'autres articles qui pourraient vous intéresser :</h3>
+    <ul>
+      <li><a href="/blog/posts/video-armee.php">La vidéo durant mon service militaire</a></li>
+      <li><a href="/blog/posts/first-post.php">Créer un blog ? Mais je n'ai rien à dire !</a></li>
+    </ul>
 
-  <?php include 'layout/footer.html' ?>
+    <div class="text-center"><a class="btn btn-primary" href="/blog/all-posts.php">Retour aux articles</a></div>
+  </div>
 
-  <?php include 'layout/scripts.html' ?>
+  <?php include '../layout/footer.html' ?>
+
+  <?php include '../layout/scripts.html' ?>
 
 </body>
 

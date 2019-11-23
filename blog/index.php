@@ -57,7 +57,7 @@
         <hr>
         <!-- Pager -->
         <div class="clearfix">
-          <a class="btn btn-primary float-right" href="all-posts">Tous les articles &rarr;</a>
+          <a class="btn btn-primary float-right" href="all-posts.php">Tous les articles &rarr;</a>
         </div>
       </div>
     </div>
