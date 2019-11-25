@@ -47,7 +47,7 @@
               La vidéo durant mon service militaire
             </h2>
             <h3 class="post-subtitle">
-              Les 368 jours de service qu'il m'a fallut pour enfin utiliser mon appareil-photo à l'armée.
+              Les 432 jours de service qu'il m'a fallut pour enfin utiliser mon appareil-photo à l'armée.
             </h3>
           </a>
           <p class="post-meta">Posté par

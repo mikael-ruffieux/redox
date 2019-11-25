@@ -16,7 +16,7 @@
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="post-heading">
             <h1>La vidéo durant mon service militaire</h1>
-            <h2 class="subheading">Les 368 jours de service qu'il m'a fallut pour enfin utiliser mon appareil-photo à l'armée.</h2>
+            <h2 class="subheading">Les 432 jours de service qu'il m'a fallut pour enfin utiliser mon appareil-photo à l'armée.</h2>
             <span class="meta">Posté par
               <a href="/blog/about">Mikaël</a>
               le 23 novembre 2019</span>
@@ -49,7 +49,7 @@
           <p>Intéressé, je contacte directement l’officier responsable de cette cellule, qui est directement intéressé par mon profil, mais redevient prudent quand il apprend ma fonction : il est facile pour lui de muter un soldat, ou même un sergent au sein de sa cellule, mais un sergent-major chef, il n’y en a qu’un dans une compagnie.</p>
           <p>Malheureusement, après plusieurs échanges avec mon commandant de compagnie, ce dernier refuse de me muter, et me propose un entre-deux, où je pourrais travailler à temps partielle comme vidéaste, mais devrait toujours assumer mes fonctions de sergent-major.</p>
           
-          <h2 class="section-heading">Après 368 jours : « Et action ! »</h2>
+          <h2 class="section-heading">Après 432 jours : « Et action ! »</h2>
           <p>Mon deuxième cours de répétition commence, et j’entre directement en contact avec l’officier spécialiste (Le « PIO »), chef de la cellule comm’. Le courant passe très bien, et je suis rapidement envoyé sur le terrain, armé cette fois de mon appareil photo, et non plus de mon fusil d’assaut.</p>
           <p>Je rejoins sur plusieurs exercices la section d’explorateurs du bataillon, dirigée par un ancien camarade, le Lt Lanners, qui m’intègre non pas seulement comme vidéaste, mais comme assistant à la direction de ses exercices.</p>
           <p>C’est un rêve qui devient réalité : je peux filmer à l’armée, et filmer ma fonction initiale, celle des explorateurs !</p>

@@ -23,6 +23,8 @@
     </div>
   </header>
 
+  <div class="user-img"><img src="/blog/img/profile-square.jpg" alt="Mikael Ruffieux"></div>
+
   <!-- Main Content -->
   <div class="container">
     <div class="row">

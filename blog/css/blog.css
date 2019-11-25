@@ -1,0 +1,31 @@
+.user-img {
+    position: inherit;
+    margin: 0 20%;
+    z-index: 1;
+    text-align: right;
+    height: 50px;
+}
+
+.user-img img {
+    width: 200px ;
+    height: auto;
+    border-radius: 150px;
+    position: relative;
+    top: -150px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .user-img {
+        position: inherit;
+        text-align: center;
+        z-index: 1;
+        height: 100px;
+    }
+    
+    .user-img img {
+        width: 200px ;
+        height: auto;
+        border-radius: 150px;
+        position: relative;
+        top: -150px;
+  }
