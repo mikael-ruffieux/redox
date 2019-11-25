@@ -28,7 +28,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="post-preview">
-          <a href="/blog/posts/speak-up">
+          <a href="/blog/posts/speak-up.php">
             <h2 class="post-title">
               SpeakUp, la nouvelle plateforme de diffusion de Podcasts
             </h2>
@@ -37,12 +37,26 @@
             </h3>
           </a>
           <p class="post-meta">Posté par
-            <a href="/blog/about">Mikaël</a>
+            <a href="/blog/about.php">Mikaël</a>
             le 1 décembre 2019</p>
         </div>
         <hr>
         <div class="post-preview">
-          <a href="/blog/posts/speak-up">
+          <a href="/blog/posts/video-armee.php">
+            <h2 class="post-title">
+              La vidéo durant mon service militaire
+            </h2>
+            <h3 class="post-subtitle">
+              Les 368 jours de service qu'il m'a fallut pour enfin utiliser mon appareil-photo à l'armée.
+            </h3>
+          </a>
+          <p class="post-meta">Posté par
+            <a href="/blog/about.php">Mikaël</a>
+            le 23 novembre 2019</p>
+        </div>
+        <hr>
+        <div class="post-preview">
+          <a href="/blog/posts/first-post.php">
             <h2 class="post-title">
               Créer un blog ? Mais je n'ai rien à dire !
             </h2>
@@ -51,7 +65,7 @@
             </h3>
           </a>
           <p class="post-meta">Posté par
-            <a href="/blog/about">Mikaël</a>
+            <a href="/blog/about.php">Mikaël</a>
             le 11 novembre 2019</p>
         </div>
         <hr>
