@@ -34,7 +34,7 @@
           nulles, mais que les gens écoutent parce qu’elles sont souvent drôles.</p>
 
         <p>Au niveau de la vidéo, je baigne dedans depuis ma 3ème du gymnase, où j’ai pu réaliser des vidéos pour la soirée 
-          humoristique de l’école (le spectacle annuel), et j’ai depuis continuer dans ce domaine avec des projets personnels, et de 
+          humoristique de l’école (le spectacle annuel), et j’ai depuis continué dans ce domaine avec des projets personnels, et de 
           plus en plus de projets concrets, avec des clients. L’essentiel de mon travail se trouve 
           sur mon site web : <a href="http://www.redox-prod.ch" target="_blank" rel="noopener noreferrer">redox-prod.ch</a>.</p>
 
