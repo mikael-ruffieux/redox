@@ -38,7 +38,7 @@
           </a>
           <p class="post-meta">Posté par
             <a href="/blog/about.php">Mikaël</a>
-            le 1 décembre 2019</p>
+            le 27 novembre 2019</p>
         </div>
         <hr>
         <div class="post-preview">

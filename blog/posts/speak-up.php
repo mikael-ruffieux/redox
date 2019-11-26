@@ -19,7 +19,7 @@
             <h2 class="subheading">Le prochain hit ou prochain flop ? </h2>
             <span class="meta">Posté par
               <a href="/blog/about.php">Mikaël</a>
-              le 1 décembre 2019</span>
+              le 27 novembre 2019</span>
           </div>
         </div>
       </div>
@@ -31,42 +31,100 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+          
+          <p>Lors d’un cours de marketing, nous avons reçu la tâche de créer un projet start-up, et nous avons choisi de 
+          « développer » une plate-forme de podcasting, sur laquelle ses utilisateurs pourraient créer et consommer du contenu,
+           le partager et débattre dessus, selon le modèle d’utilisation d’un réseau social.</p>
+            
+          <h2 class="section-heading">Le podcast, définition</h2>
+          <p>Le terme est issu d’un néologisme anglo-américain entre iPod et broadcast<a href="http://www.culture.fr/Ressources/FranceTerme/Recommandations-d-usage/PODCASTING" target="_blank" rel="noopener noreferrer" title="Définition de culture.fr">Source</a>.
+          <p>Le podcasting est un moyen de diffusion des fichiers sur Internet, appelés podcasts, et si aujourd’hui il est 
+          associé à du contenu uniquement audio, il représentait à la base n’importe quel type de contenu partageable 
+          sur les baladeurs numériques.</p>
+          <p>Si depuis quelques temps, on entend de plus en plus parler de podcasting, ce concept n’a 
+          rien de nouveau. En effet, cette mode d’émissions audios et de création de contenu date du milieu des années 2000, 
+          avec l’arrivée du Web 2.0 et de ses flux RSS.</p>
+          
+          <h2 class="section-heading">SpeakUp - Le podcast pour tous</h2>
+          <p>Pourquoi mettre en place un tel service ? « Parce que tout le monde a quelque chose à dire ». C’est l’idée 
+          avec laquelle notre groupe a décidé d’avancer, en mettant en avant la facilité de publication et la mise en avant 
+          d’un produit pour lequel l’intérêt est grimpant depuis quelques années en Europe francophone.</p>
+          
+          <!-- IMAGE GOOGLE TRENDS -->
+          <img class="img-fluid" src="/blog/img/google-trends.png" alt="Google Trends du terme 'podcast'">
+          <blockquote class=”blockquote”>On voit clairement la remontée de la tendance du podcasting autour de l’année 2018</blockquote>
 
-          <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+          <p>Le public-cible initial de ce projet serait les universités, pour lesquelles SpeakUp offrirait l’opportunité 
+          de partager du contenu pédagogique, et de le mettre à disposition de ses étudiants. De plus, selon les Audience 
+          Insights de Facebook, c’est justement cette tranche universitaire de la population qui consomme le plus de podcasts, 
+          notamment pour ses bénéfices dans la transmission de connaissance (dans les études à distance par exemple)</p>
 
-          <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+          <p>Gros point à mettre en avant : ça n’est pas uniquement une plateforme d'hébergement de contenu audio, mais 
+          un réseau social à part entière. SpeakUp disposerait de toute une infrastructure établie sur les codes des réseaux 
+          sociaux, mais avec non pas du contenu textuel ou imagé, mais avec du contenu audio.</p>
+          <p>En résumé : une sorte de Twitter, mais avec uniquement des audios, qui seraient produit 
+          comme on crée un “audio” sur Whatsapp, d’où le principe de non plus micro-blogging, mais de micro-podcasting.</p>
 
-          <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+          <h2 class="section-heading">Mon avis sur SpeakUp</h2>
+          <p>Si en tant que groupe, nous avons tout fait pour mettre en avant la faisabilité de notre projet, et le succès 
+          qu’il rencontrerait suite à la demande grandissante du marché, en tant qu’individu, je reste quelque peu sceptique 
+          vis-à-vis des différentes difficultés qu’un projet pareil viendrait à rencontrer.</p>
+          
+          <h3>Le stockage à perte de vue</h3>
+          <p>La mise en place d’un service pareil serait semblable à celle d’une plateforme comme YouTube. Même 
+          si un fichier audio prend nettement moins de place qu’un fichier vidéo, les bases de données à mettre en place 
+          et à maintenir représenteraient une grande majorité du budget, et des compétences techniques qu’aucun membre du projet 
+           possède actuellement.</p>
+          <p>Ensuite vient la maintenance de tout ce parc de stockage de données. Même s’il y a toujours la 
+          possibilité de déplacer ce stockage dans des régions du monde où le coût de la vie est moins élevé, cela reste 
+          des frais importants à faire, et on perdrait ce label “Swiss&#8239;Made”.</p>
+          
+          <h3>Les concurrents&#8239;: de gros poissons</h3>
+          <p>Même si en effet, aucun acteur du marché ne propose <i>exactement</i> le même service que SpeakUp, des services 
+          plus ou moins similaires sont déjà disponibles, et possèdent une renommée qui n’est plus à prouver. Spotify a 
+          mis en place récemment une section spécialisée dans les podcasts, ou SoundCloud propose à ses utilisateurs une 
+          section commentaires depuis de nombreuses années.</p>
+          
+          <h2 class="section-heading">Le futur du podcast avec Spotify ?</h2>
+          
+          <!-- IMAGE SPOTIFY -->
+          <img class="img-fluid" src="/blog/img/spotify.png" alt="Spotify for Podcasters">
+          <blockquote class=”blockquote”>Spotify&#8239;for&#8239;Podcasters, le nouveau service du géant vert</blockquote>
 
-          <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
+          <p>Au début du mois de novembre de cette année, Spotify a mis à disposition une application permettant à ses 
+          utilisateurs de créer et de publier facilement des podcasts sur leur plateforme, Anchor, acheté plus tôt dans l’année
+           pour plusieurs centaines de millions de dollars. En achetant aussi Gimlet Media, une entreprise spécialisée dans
+            la production et promotion de podcasts narratifs, Spotify se positionne clairement.</p>
+          
+          <div class="iframeWrapper"><iframe src="https://www.youtube.com/embed/7qDZ1uyDKTI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+          <blockquote class=”blockquote”>La présentation d’Anchor et de sa fonctionnalité de création de “trailer” de podcast.</blockquote>
 
-          <h2 class="section-heading">The Final Frontier</h2>
+          <p>Si cette application est une approche “user-friendly” de la production, et n’est en aucun cas une alternative 
+          viable pour les gros producteurs, la plateforme de streaming suédoise veut au maximum démocratiser la création de 
+          contenu audio, et rendre ce processus accessible à tout le monde, en proposant aussi une application simplifiée 
+          de montage audio : Soundtrap. De plus, ils proposent à tous les créateurs d’être rémunéré en fonction de leurs 
+          nombres d’écoutes.</p>
+          <p>Et c’est une situation win-win pour le géant vert, car cette création de nouveau contenu pousse de plus 
+          en plus d’utilisateurs à acheter un abonnement premium, mais en plus la rémunération des podcasteurs leur revient 
+          meilleur marché que celle des musiciens, où un studio et des licenses sont à payer.</p>
 
-          <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+          <h2 class="section-heading">Au final …</h2> 
+          <p>Je pense que l’idée initiale a vraiment du potentiel, mais un groupe de cinq étudiants, avec 
+          pour l’instant zéro franc de budget n’est pas capable de mettre en place les ressources nécessaires à l’élaboration
+           d’un tel projet.</p>
+          <p>Il est clair que le podcast plaît, que les gens le consomment, mais au final, sans compter l’aspect 
+          “réseau social” du projet, Spotify surfe sur la vague depuis son début, et a les moyens nécessaire pour 
+          répondre à cette demande grandissante.</p>
+          <p>Mais si la création d’une plateforme leader sur ce marché n’est selon moi pas envisageable, 
+          le développement de certaines fonctionnalités étroitement liées au domaine du podcasting pourraient attirer 
+          l’attention des gros poissons cités plus tôt, et provoquer un rachat de ces dernières.</p>
 
-          <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-          <blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-          <p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-          <h2 class="section-heading">Reaching for the Stars</h2>
-
-          <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-          <a href="#">
-            <img class="img-fluid" src="/blog/img/post-sample-image.jpg" alt="">
-          </a>
-          <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
-
-          <p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-          <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
-
-          <p>Placeholder text by
-            <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by
-            <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
+          <p>Sources de l'article :
+            <a href="http://spaceipsum.com/" target="_blank" rel="noopener noreferrer" >Techcrunch.com</a>, <a href="http://www.culture.fr/Ressources/FranceTerme/Recommandations-d-usage/PODCASTING" target="_blank" rel="noopener noreferrer">Culture.fr</a>.
+            <br>Images : 
+            <a href="https://podcasters.spotify.com/" target="_blank" rel="noopener noreferrer">Spotify for Podcasters</a>,
+            <a href="https://trends.google.fr/trends/explore?date=all&q=podcast" target="_blank" rel="noopener noreferrer">Google Trends</a>.
+          </p>
         </div>
       </div>
     </div>
