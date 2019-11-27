@@ -37,7 +37,7 @@
            le partager et débattre dessus, selon le modèle d’utilisation d’un réseau social.</p>
             
           <h2 class="section-heading">Le podcast, définition</h2>
-          <p>Le terme est issu d’un néologisme anglo-américain entre iPod et broadcast<a href="http://www.culture.fr/Ressources/FranceTerme/Recommandations-d-usage/PODCASTING" target="_blank" rel="noopener noreferrer" title="Définition de culture.fr">Source</a>.
+          <p>Le terme est issu d’un néologisme anglo-américain entre iPod et broadcast <sup><a href="http://www.culture.fr/Ressources/FranceTerme/Recommandations-d-usage/PODCASTING" target="_blank" rel="noopener noreferrer" title="Définition de culture.fr">1</a></sup>.
           <p>Le podcasting est un moyen de diffusion des fichiers sur Internet, appelés podcasts, et si aujourd’hui il est 
           associé à du contenu uniquement audio, il représentait à la base n’importe quel type de contenu partageable 
           sur les baladeurs numériques.</p>
