@@ -38,7 +38,7 @@
           <h2 class="section-heading">Qui suis-je pour écrire un blog ?</h2>
           <p>Je n’ai pas de compétence particulière à partager, ou d’avis à donner sur le monde, ça n’intéresse personne …</p>
           <p>Mais après discussion avec un étudiant de 2ème année, j’ai changé d’avis : 
-            il m’a présenté son modèle de travail basé sur le transfert de connaissances, le <a href="https://fr.wikipedia.org/wiki/Monomythe" target="_blank" rel="noopener noreferrer" title="Définition de Wikipédia"><i>Hero's Journey</i></a>. 
+            il m’a présenté son modèle de travail basé sur le transfert de connaissances, le <a href="https://fr.wikipedia.org/wiki/Voyage_du_h%C3%A9ros" target="_blank" rel="noopener noreferrer" title="Définition de Wikipédia"><i>Hero's Journey</i></a>. 
             Il m’a appris qu’il prenait des stagiaires pour ses projets, ce qui m’a étonné vu que cette personne avait mon âge, 
             mais il m’a dit qu’on apprenait mieux en transmettant ses connaissances à d’autres. Et des compétences, j’en ai.</p>
           <p>Certes, je ne suis actuellement expert en aucun domaine de ma carrière, mais j’ai déjà certaines connaissances, 
