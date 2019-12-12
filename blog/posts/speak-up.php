@@ -9,7 +9,7 @@
   <?php include '../layout/navbar.html'; ?>
 
   <!-- Page Header -->
-  <header class="masthead" style="background-image: url('/blog/img/speakup.png')">
+  <header class="masthead" style="background-image: url('/blog/img/podcast.jpg')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
@@ -64,8 +64,10 @@
           sociaux, mais avec non pas du contenu textuel ou imagé, mais avec du contenu audio.</p>
           <p>En résumé : une sorte de Twitter, mais avec uniquement des audios, qui seraient produit 
           comme on crée un “audio” sur Whatsapp, d’où le principe de non plus micro-blogging, mais de micro-podcasting.</p>
-
+          
           <h2 class="section-heading">Mon avis sur SpeakUp</h2>
+          <img src="/blog/img/speakup.png" alt="SpeakUp, le podcast pour tous" class="img-fluid">
+          
           <p>Si en tant que groupe, nous avons tout fait pour mettre en avant la faisabilité de notre projet, et le succès 
           qu’il rencontrerait suite à la demande grandissante du marché, en tant qu’individu, je reste quelque peu sceptique 
           vis-à-vis des différentes difficultés qu’un projet pareil viendrait à rencontrer.</p>
@@ -123,7 +125,8 @@
             <a href="http://spaceipsum.com/" target="_blank" rel="noopener noreferrer" >Techcrunch.com</a>, <a href="http://www.culture.fr/Ressources/FranceTerme/Recommandations-d-usage/PODCASTING" target="_blank" rel="noopener noreferrer">Culture.fr</a>.
             <br>Images : 
             <a href="https://podcasters.spotify.com/" target="_blank" rel="noopener noreferrer">Spotify for Podcasters</a>,
-            <a href="https://trends.google.fr/trends/explore?date=all&q=podcast" target="_blank" rel="noopener noreferrer">Google Trends</a>.
+            <a href="https://trends.google.fr/trends/explore?date=all&q=podcast" target="_blank" rel="noopener noreferrer">Google Trends</a>,
+            <a href="https://pixabay.com/fr/photos/studio-microphone-rec-musique-4065108/" target="_blank" rel="noopener noreferrer">Pixabay</a>.
           </p>
         </div>
       </div>
