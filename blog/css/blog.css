@@ -1,3 +1,7 @@
+header.masthead {
+    background-attachment: fixed!important;
+}
+
 #logoBlog {
     width: 40px;
     height: auto;
