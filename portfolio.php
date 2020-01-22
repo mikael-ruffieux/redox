@@ -1,20 +1,34 @@
 <section class="bg-light" id="portfolio">
     <div class="container">
       	<div class="row">
-			<!--<div class="col-md-4 col-sm-6 portfolio-item">
-					<a class="portfolio-link" data-toggle="modal" href="#portfolioModal13">
-						<div class="portfolio-hover">
-							<div class="portfolio-hover-content">
-								<i class="fas fa-plus fa-3x"></i>
-							</div>
+		  	<div class="col-md-4 col-sm-6 portfolio-item">
+				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal14">
+					<div class="portfolio-hover">
+						<div class="portfolio-hover-content">
+							<i class="fas fa-plus fa-3x"></i>
 						</div>
-						<img class="img-fluid" src="assets/images/projects/min_mueli.jpg" alt="Miniature ">
-					</a>
-					<div class="portfolio-caption">
-						<h4 lang="de">Müli Deisswil</h4>
-						<p class="text-muted">Vidéo / Motion design</p>
 					</div>
-			</div>-->
+					<img class="img-fluid" src="assets/images/projects/min_ptitsjobs.jpg" alt="Miniature ">
+				</a>
+				<div class="portfolio-caption">
+					<h4 lang="de">"Les Ptits Jobs"</h4>
+					<p class="text-muted">Vidéo</p>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-6 portfolio-item">
+				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal13">
+					<div class="portfolio-hover">
+						<div class="portfolio-hover-content">
+							<i class="fas fa-plus fa-3x"></i>
+						</div>
+					</div>
+					<img class="img-fluid" src="assets/images/projects/min_mueli.jpg" alt="Miniature ">
+				</a>
+				<div class="portfolio-caption">
+					<h4 lang="de">Müli Deisswil</h4>
+					<p class="text-muted">Vidéo / Motion design</p>
+				</div>
+			</div>
 			
 			<div class="col-md-4 col-sm-6 portfolio-item">
 					<a class="portfolio-link" data-toggle="modal" href="#portfolioModal11">
@@ -31,7 +45,7 @@
 					</div>
 			</div>
 			
-			<!--<div class="col-md-4 col-sm-6 portfolio-item">
+			<div class="col-md-4 col-sm-6 portfolio-item">
 		        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal12">
 		            <div class="portfolio-hover">
 		            	<div class="portfolio-hover-content">
@@ -44,7 +58,7 @@
 		            <h4>Islande 2018</h4>
 		            <p class="text-muted">Vidéo</p>
 		        </div>
-		    </div>-->
+		    </div>
 
       		<div class="col-md-4 col-sm-6 portfolio-item">
 		        <a class="portfolio-link" data-toggle="modal" href="#portfolioModal8">
@@ -742,6 +756,130 @@
 						<ul class="list-inline">
 							<li>Date : Juin 2019</li>
 							<li>Client : Bat Sap Chars 1</li>
+							<li>Catégorie : Vidéo</li>
+						</ul>
+						<button class="btn btn-primary" data-dismiss="modal" type="button">
+							<i class="fas fa-times"></i>
+							Fermer le projet
+						</button>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Modal 12 -->
+<div class="portfolio-modal modal fade" id="portfolioModal12" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="close-modal" data-dismiss="modal">
+				<div class="lr">
+				<div class="rl"></div>
+			</div>
+			</div>
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 mx-auto">
+					<div class="modal-body">
+					<!-- Project Details -->
+						<h2 class="text-uppercase">Islande 2018</h2>
+						<p class="item-intro text-muted">Réalisation vidéo</p>
+
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe src="//player.vimeo.com/video/338079250" allow="fullscreen"></iframe>
+						</div>
+						<br>
+						<p>Vidéo réalisée lors d'un voyage en Islande, en 2018, avec Keran Kocher. 
+						Étant un projet personnel et non-prioritaire, le montage et la post-production de la vidéo se sont étalés sur une année, pour pouvoir finalement publier la vidéo en mai 2019, une année après le voyage.</p>
+						<ul class="list-inline">
+							<li>Date : Mai 2018-19</li>
+							<li>Client : Projet personnel</li>
+							<li>Catégorie : Vidéo</li>
+						</ul>
+						<button class="btn btn-primary" data-dismiss="modal" type="button">
+							<i class="fas fa-times"></i>
+							Fermer le projet
+						</button>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Modal 13 -->
+<div class="portfolio-modal modal fade" id="portfolioModal13" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="close-modal" data-dismiss="modal">
+				<div class="lr">
+				<div class="rl"></div>
+			</div>
+			</div>
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 mx-auto">
+					<div class="modal-body">
+					<!-- Project Details -->
+						<h2 class="text-uppercase">Müli Deisswil</h2>
+						<p class="item-intro text-muted">Réalisation vidéo / Motion Design</p>
+
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe src="//player.vimeo.com/video/371218844" allow="fullscreen"></iframe>
+						</div>
+						<br>
+						<p>Vidéo à titre promotionnelle pour présenter les nouveaux locaux de l'association "Müli Deisswil". 
+						Il s'agit d'une salle culturelle, proposant diverses activités au cours de l'année, avec possibilité de location.
+						L'association est en étroite collaboration avec les scouts de la région. 
+						Nous avons aussi réalisé l'animation de leur logo, afin de dynamiser leur contenu visuel.</p>
+						<ul class="list-inline">
+							<li>Date : Octobre 2019</li>
+							<li>Client : Müli Deisswil</li>
+							<li>Catégorie : Vidéo / Motion Design</li>
+						</ul>
+						<button class="btn btn-primary" data-dismiss="modal" type="button">
+							<i class="fas fa-times"></i>
+							Fermer le projet
+						</button>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Modal 14 -->
+<div class="portfolio-modal modal fade" id="portfolioModal14" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="close-modal" data-dismiss="modal">
+				<div class="lr">
+				<div class="rl"></div>
+			</div>
+			</div>
+			<div class="container">
+			<div class="row">
+				<div class="col-lg-8 mx-auto">
+					<div class="modal-body">
+					<!-- Project Details -->
+						<h2 class="text-uppercase">Les Ptits Jobs</h2>
+						<p class="item-intro text-muted">Réalisation vidéo</p>
+
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe src="//player.vimeo.com/video/386443904" allow="fullscreen"></iframe>
+						</div>
+						<br>
+						<p>Le service "Ptits Jobs" est une mesure mise en place par le Service de la Jeunesse 
+						de la Ville de Bulle (SJB) proposant un soutien professionnel aux jeunes désirer rejoindre le monde du travail.
+						Le projet a été initié par Mme. Pamela Rey, avec qui j'ai eu l'occasion de collaborer pour 
+						l'élaboration de ce projet de vidéo promotionnelle.</p>
+						<ul class="list-inline">
+							<li>Date : Novembre 2019</li>
+							<li>Client : Service de la Jeunesse de la Ville de Bulle</li>
 							<li>Catégorie : Vidéo</li>
 						</ul>
 						<button class="btn btn-primary" data-dismiss="modal" type="button">
