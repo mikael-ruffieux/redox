@@ -874,7 +874,7 @@
 						</div>
 						<br>
 						<p>Le service "Ptits Jobs" est une mesure mise en place par le Service de la Jeunesse 
-						de la Ville de Bulle (SJB) proposant un soutien professionnel aux jeunes désirer rejoindre le monde du travail.
+						de la Ville de Bulle (SJB) proposant un soutien professionnel aux jeunes désirant rejoindre le monde du travail.
 						Le projet a été initié par Mme. Pamela Rey, avec qui j'ai eu l'occasion de collaborer pour 
 						l'élaboration de ce projet de vidéo promotionnelle.</p>
 						<ul class="list-inline">
