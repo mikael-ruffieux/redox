@@ -4,7 +4,7 @@
     <meta name="description" content="Blog de Mikael Ruffieux">
     <meta name="author" content="Mikael Ruffieux">
   
-    <title>Le blog de Mikaël</title>
+    <title><?php echo $page_title;?> | Le blog de Mikaël</title>
   
     <!-- Bootstrap core CSS -->
     <link href="/blog/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">

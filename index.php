@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<?php include "layout/head.html" ?>
+<?php 
+$page_title = "Bienvenue";
+include "layout/head.php"; ?>
 
   <body id="page-top">
 
@@ -39,33 +41,26 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Services</h2>
+            <h2 class="section-heading text-uppercase">Nos services</h2>
             <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
           </div>
         </div>
         <div class="row text-center">
-          <div class="col-md-6 col-lg-3">
-            <span class="fa-stack fa-4x">
-              <i class="fas fa-camera fa-stack-1x fa-inverse"></i>
-            </span>
-            <h4 class="service-heading">Photographie / Vidéo</h4>
-            <p class="text-muted">Nous nous occupons de la couverture photo et vidéo de vos événements.</p>
-          </div>
-          <div class="col-md-6 col-lg-3">
+          <div class="col-md-4 col-sm-12">
             <span class="fa-stack fa-4x">
               <i class="fas fa-film fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Production vidéo</h4>
             <p class="text-muted">Que ce soit pour la promotion d'un produit, d'un événement, ou de votre organisation en général, nous nous occupons de la création de votre produit vidéo de A à Z.</p>
           </div>
-          <div class="col-md-6 col-lg-3">
+          <div class="col-md-4 col-sm-12">
             <span class="fa-stack fa-4x">
               <i class="fas fa-book-open fa-stack-1x fa-inverse"></i>
             </span>
             <h4 class="service-heading">Créations graphiques</h4>
             <p class="text-muted">Flyers, logo, booklet, ... La création graphique de vos futurs projets imprimés, afin d'atteindre votre public cible.</p>
           </div>
-          <div class="col-md-6 col-lg-3">
+          <div class="col-md-4 col-sm-12">
             <span class="fa-stack fa-4x">
               <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
             </span>

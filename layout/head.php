@@ -8,7 +8,7 @@
 
         gtag('config', 'UA-148739728-1');
     </script>
-    <title>Redox Prod | Communication digitale | Création de contenu vidéo</title>
+    <title><?php echo $page_title; ?> | Redox Prod | Communication digitale | Création de contenu vidéo</title>
     <!-- META -->
     <meta charset="utf-8">
     <meta name="description" content="Redox Prod | Communication digitale / Création de contenu vidéo">

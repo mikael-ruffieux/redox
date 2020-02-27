@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<?php include '../layout/head.html'; ?>
+<?php 
+$page_title = "SpeakUp";
+include '../layout/head.php'; ?>
 
 <body>
 

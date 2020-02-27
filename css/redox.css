@@ -815,11 +815,11 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 #ourWorkHeader {
 	text-align: center;
     color: white;
-	height: 100vh;
+	height: 50vh;
 	background-image: url("../assets/images/layout/iceland_3.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-position: center center;
+	background-position: bottom;
 	background-size: cover;
 }
 
@@ -846,17 +846,91 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 	position: absolute;
 	z-index: 1000;
 	width: 100%;
-    top: 40vh;
+    top: 20vh;
 	text-align: center;
 }
 
-#ourWorkTitle h1 {
+.pageTitle h1 {
 	margin: auto;
     border: solid white 3px;
     color: white;
     font-size: 3rem;
 	width: 450px;
 	max-width: 80%;
-    padding: 30px;
+    padding: 20px;
     text-transform: uppercase;
+}
+
+/* -------------------------------
+NOS-SERVICES.PHP 
+----------------------------------*/
+.triangle1 {
+  background-image: url(../assets/images/layout/diagonal-bg-white-1.svg);
+  height: 134px;
+}
+
+#ourServicesHeader {
+	text-align: center;
+    color: white;
+	height: 50vh;
+	background-image: url("../assets/images/layout/iceland_3.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: bottom;
+	background-size: cover;
+}
+
+.pageTitle {
+	position: absolute;
+	z-index: 1000;
+	width: 100%;
+    top: 20vh;
+	text-align: center;
+}
+
+#ourServices .container .row div {
+  height: 500px;
+}
+
+#ourServices h2 {
+  font-size: 3rem;
+  color: #ff6000;
+  text-transform: uppercase;
+  padding-bottom: 3rem;
+}
+
+.serviceShort {
+  width: 100%;
+  background-color: white;
+  border: #ff6000 1px solid;
+  padding: 20px;
+  text-align: center;
+}
+
+.serviceShort .fa {
+  width: 100%;
+  font-size: 4rem;
+  margin-top : 20px; 
+  margin-bottom: 20px;
+}
+.serviceShort h3 {
+  text-transform: uppercase;
+
+}
+
+.serviceShort p {
+  font-size: 1.5rem;
+
+}
+
+.serviceDescription {
+  padding: 31px;
+}
+
+.serviceDescription h3 {
+
+}
+
+.serviceDescription p {
+
 }

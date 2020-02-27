@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<?php include '../layout/head.html'; ?>
+<?php 
+$page_title = "Créer un blog ? Mais je n'ai rien à dire !";
+include '../layout/head.php'; ?>
 
 <body>
 
