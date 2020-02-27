@@ -29,6 +29,20 @@ include 'layout/head.php'; ?>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
+      <div class="post-preview">
+          <a href="/blog/posts/analyse-im.php">
+            <h2 class="post-title">
+              Recherche marketing
+            </h2>
+            <h3 class="post-subtitle">
+              Comment améliorer la filière d'Ingénierie des Médias ? 
+            </h3>
+          </a>
+          <p class="post-meta">Posté par
+            <a href="/blog/about.php">Mikaël</a>
+            le 26 janvier 2020</p>
+        </div>
+        <hr>
         <div class="post-preview">
           <a href="/blog/posts/speak-up.php">
             <h2 class="post-title">

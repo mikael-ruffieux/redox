@@ -3,6 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Blog de Mikael Ruffieux">
     <meta name="author" content="Mikael Ruffieux">
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
   
     <title><?php echo $page_title;?> | Le blog de Mikaël</title>
   
