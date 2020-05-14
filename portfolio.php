@@ -1,6 +1,21 @@
 <section class="bg-light" id="portfolio">
     <div class="container">
       	<div class="row">
+		  <div class="col-md-4 col-sm-6 portfolio-item">
+				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal15">
+					<div class="portfolio-hover">
+						<div class="portfolio-hover-content">
+							<i class="fas fa-plus fa-3x"></i>
+						</div>
+					</div>
+					<img class="img-fluid" src="assets/images/projects/min_changementemergent.jpg" alt="Miniature ">
+				</a>
+				<div class="portfolio-caption">
+					<h4 lang="de">Changement Emergent</h4>
+					<p class="text-muted">Site internet</p>
+				</div>
+			</div>
+
 		  	<div class="col-md-4 col-sm-6 portfolio-item">
 				<a class="portfolio-link" data-toggle="modal" href="#portfolioModal14">
 					<div class="portfolio-hover">
@@ -891,5 +906,44 @@
 			</div>
 			</div>
 		</div>
+	</div>
+</div>
+
+<!-- Modal 15 -->
+<div class="portfolio-modal modal fade" id="portfolioModal15" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="modal-dialog">
+	<div class="modal-content">
+		<div class="close-modal" data-dismiss="modal">
+		<div class="lr">
+			<div class="rl"></div>
+		</div>
+		</div>
+		<div class="container">
+		<div class="row">
+			<div class="col-lg-8 mx-auto">
+			<div class="modal-body">
+				<!-- Project Details -->
+				<h2 class="text-uppercase">Changement Emergent</h2>
+				<p class="item-intro text-muted">Refonte de site web</p>
+				<a href="https://www.changementemergent.ch" target="_blank">
+				<img class="img-fluid d-block mx-auto" src="assets/images/screenshots/changementemergent.png" alt="changementemergent.ch">
+				</a>
+				<p>
+					Pour cette refonte de site, Redox Prod a été mandaté par l'agence You Look Amazing (YLA), pour implémenter un nouveau design sur le site existant de l'Institut du Changement Emergent.
+					Il s'agissait ici d'appliquer le design créé par YLA en HTML / CSS, puis de créer un nouveau thème Drupal 8 + Commerce 2.
+				</p>
+				<ul class="list-inline">
+				<li>Date : Avril 2020</li>
+				<li>Clients : <a href="https://changementemergent.ch" target="_blank">Changement Emergent</a>, <a href="https://youlookamazing.agency/" target="_blank">You Look Amazing</a></li>
+				<li>Catégorie : Web</li>
+				</ul>
+				<button class="btn btn-primary" data-dismiss="modal" type="button">
+				<i class="fas fa-times"></i>
+				Fermer le projet</button>
+			</div>
+			</div>
+		</div>
+		</div>
+	</div>
 	</div>
 </div>

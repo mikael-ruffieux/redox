@@ -81,7 +81,7 @@ include "layout/head.php"; ?>
           </div>
         </div>
         <div class="row">
-          <div class="col-sm-4">
+          <div class="col-sm-6 col-12">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/mika.jpg" alt="Mikael Ruffieux">
               <h4>Mikaël Ruffieux</h4>
@@ -99,7 +99,7 @@ include "layout/head.php"; ?>
               </ul>
             </div>
           </div>
-          <div class="col-sm-4">
+          <div class="col-sm-6 col-12">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/keran.jpg" alt="Keran Kocher">
               <h4>Keran Kocher</h4>
@@ -111,7 +111,7 @@ include "layout/head.php"; ?>
               </ul>
             </div>
           </div>
-          <div class="col-sm-4">
+          <!--<div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="assets/images/team/blm.jpg" alt="Benoit Leo Maillard">
               <h4>Benoît Léo Maillard</h4>
@@ -122,7 +122,7 @@ include "layout/head.php"; ?>
                 </li>
               </ul>
             </div>
-          </div>
+          </div>-->
         </div>
         <!--<div class="row">
           <div class="col-lg-8 mx-auto text-center">
