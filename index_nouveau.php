@@ -23,8 +23,6 @@ include "layout/head.php"; ?>
 
 
     <!-- About us -->
-
-    <!-- About us -->
     <section class="" id="about">
       <div class="container">
         <div class="row">
@@ -43,8 +41,22 @@ include "layout/head.php"; ?>
       </div>
     </section>
 
-        <!-- Services -->
-    <section class="bg-light" id="services">
+    <!-- Les derniers projets -->
+    <section id="last-projects" class="bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-9 mx-auto text-left">
+            <h3 class="section-heading text-uppercase">Nos dernières réalisations</h3>
+            <!--<p class="section-subheading">
+                Description de la section
+            </p>-->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Services -->
+    <section class="" id="services">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-left">
@@ -106,15 +118,29 @@ include "layout/head.php"; ?>
             <div class="picto-container d-flex text-center"><img class="services-picto" src="/assets/images/services/production_video.svg" alt="Production vidéo"></div>
           </div>
         </div>
-      </div><!--
+      </div>
       <div class="row">
           <div class="col-12 text-center">
               <a href="#" class="btn btn-secondary">En savoir plus</a>
           </div>
-      </div>-->
+      </div>
     </section>
 
-<!-- Team -->
+    <!-- Call-to-action -->
+    <section class="cta bg-dark text-white">
+      <div class="container">
+        <div class="row">
+        <div class="col-lg-9 mx-auto text-center">
+          <h3>--- nous contacter ---</h3>
+          <p>Sous-titre de nous contacter</p>
+          <a href="#" class="btn btn-primary">Nous contacter</a>
+
+        </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Team -->
     <section id="team">
       <div class="container">
         <div class="row">
@@ -158,15 +184,30 @@ include "layout/head.php"; ?>
               </ul>
             </div>
           </div>
+          <!--<div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="assets/images/team/blm.jpg" alt="Benoit Leo Maillard">
+              <h4>Benoît Léo Maillard</h4>
+              <p class="text-muted">Développeur EPF front & backend</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a class="fab fa-linkedin-in" href="https://www.linkedin.com/in/beno%C3%AEt-l%C3%A9o-maillard-441331134/" target="_blank" rel="noopener noreferrer"></a>
+                </li>
+              </ul>
+            </div>
+          </div>-->
         </div>
+        <!--<div class="row">
+          <div class="col-lg-8 mx-auto text-center">
+            <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+          </div>
+        </div>-->
       </div>
     </section>
 
-
-    <!-- Portfolio Header -->
     <section id="portfolio-header" class="portfolio-header">
       <div class="container">
-        <h2 class="section-heading text-uppercase">Portfolio</h2>
+        <h2 class="section-heading text-uppercase">Nos réalisations</h2>
       </div>
     </section>
 
@@ -178,7 +219,6 @@ include "layout/head.php"; ?>
   include "portfolio.php"
 
   ?>
-
     <!-- Contact -->
     <section id="contact">
       <div class="container contact-form">
@@ -254,6 +294,8 @@ include "layout/head.php"; ?>
       <p>Icons made by <a href="https://www.flaticon.com/free-icon/bullhorn_1997897" title="wanicon">wanicon</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
       <p>Icons made by <a href="https://creativemarket.com/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a></p>
     </section>
+
+    
 
     <?php include "layout/footer.html" ?>
     <?php include "layout/scripts.html" ?>

@@ -35,6 +35,10 @@ a:hover {
   color: #ff6000 !important;
 }
 
+.bg-primary {
+  background-color: #ff6000;
+}
+
 h1,
 h2,
 h3,
@@ -62,12 +66,6 @@ section h3.section-subheading {
   font-family: 'Open Sans Bold', Arial, sans-serif;
 }
 
-@media (min-width: 768px) {
-  section {
-    padding: 150px 0;
-  }
-}
-
 .d-flex {
   display: flex;
 }
@@ -76,6 +74,8 @@ section h3.section-subheading {
 .btn {
   font-family: 'Open Sans Bold', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
+  padding: .666666rem 4rem;
+  border-radius: 0;
 }
 
 .btn-xl {
@@ -85,7 +85,7 @@ section h3.section-subheading {
 
 .btn-primary {
   background-color: #ff6000;
-  border-color: #ff6000;
+  border: solid 2px #ff6000;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -97,6 +97,19 @@ section h3.section-subheading {
 .btn-primary:active, .btn-primary:focus {
   -webkit-box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+}
+
+.btn-secondary {
+  background: transparent;
+  border: solid 2px #ff6000;
+  color: #212529;
+
+}
+
+.btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
+  background: #ff6000;
+  color: white;
+  border-color: #ff6000;
 }
 
 ::-moz-selection {
@@ -933,4 +946,30 @@ NOS-SERVICES.PHP
 
 .serviceDescription p {
 
+}
+
+#services {
+  background-image: url('/assets/images/layout/background-honey.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+/*
+#last-projects {
+  background-image: url('/assets/images/layout/background-honey.svg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}*/
+
+
+.services-picto {
+  max-width: 80px;
+  height: auto;
+}
+
+.picto-container {
+  justify-content: center;
+  align-content: baseline;
+  align-self: baseline;
 }
