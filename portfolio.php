@@ -26,7 +26,7 @@
 					<img class="img-fluid" src="assets/images/projects/min_ptitsjobs.jpg" alt="Miniature ">
 				</a>
 				<div class="portfolio-caption">
-					<h4 lang="de">"Les Ptits Jobs"</h4>
+					<h4 lang="de">"Les P'tits Jobs"</h4>
 					<p class="text-muted">Vidéo</p>
 				</div>
 			</div>
@@ -255,7 +255,12 @@
 		        </div>
 		    </div>
 		</div>
-    </div>
+	</div>
+	<div class="row">
+		<div class="col-12 text-center">
+			<a href="/" class="btn btn-secondary"><i class="fas fa-arrow-left mr-1"></i> Retour à l'accueil</a>
+		</div>
+	</div>
 </section>
 
 
